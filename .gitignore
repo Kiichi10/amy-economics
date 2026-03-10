@@ -1,0 +1,27 @@
+# Audio files
+audio/*.wav
+audio/*.mp3
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Large assets
+assets/panels/*.png
+assets/people/**/*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+credentials.json
+client_secret*.json
+token*.json

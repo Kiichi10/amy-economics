@@ -1,0 +1,291 @@
+{
+  "segments": [
+    {
+      "index": 0,
+      "file": "segment_001_shonen.wav",
+      "subtitle_file": "segment_001_shonen_subtitle.txt",
+      "duration": 4.810666666666667,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "先生、中国のBYD、国内販売マイナス65パーセントって本当ですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "先生、中国のBYD、国内販売マイナス65パーセントって本当ですか？",
+          "duration": 4.810667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "file": "segment_002_amy_sensei.wav",
+      "subtitle_file": "segment_002_amy_sensei_subtitle.txt",
+      "duration": 7.586,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "本当よ。1ヶ月で客の3分の2が消えた。しかも海外販売が初めて国内を超えたの。自国民が買わない車を外国に売ってるのよ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "本当よ。",
+          "duration": 0.597333,
+          "offset": 0.0
+        },
+        {
+          "text": "1ヶ月で客の3分の2が消えた。",
+          "duration": 1.824,
+          "offset": 0.747333
+        },
+        {
+          "text": "しかも海外販売が初めて国内を超えたの。",
+          "duration": 2.208,
+          "offset": 2.721333
+        },
+        {
+          "text": "自国民が買わない車を外国に売ってるのよ。",
+          "duration": 2.506667,
+          "offset": 5.079333
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "segment_003_shonen.wav",
+      "subtitle_file": "segment_003_shonen_subtitle.txt",
+      "duration": 1.696,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "なんでそんなに売れなくなったんですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "なんでそんなに売れなくなったんですか？",
+          "duration": 1.696,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "segment_004_amy_sensei.wav",
+      "subtitle_file": "segment_004_amy_sensei_subtitle.txt",
+      "duration": 8.748,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "不動産バブル崩壊で家計の含み損が4500兆円。しかもEVメーカーが300社以上乱立して、原価割れの値下げ合戦。政府が止めに入るほどよ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "不動産バブル崩壊で家計の含み損が4500兆円。",
+          "duration": 3.253333,
+          "offset": 0.0
+        },
+        {
+          "text": "しかもEVメーカーが300社以上乱立して、原価割れの値下げ合戦。",
+          "duration": 3.861333,
+          "offset": 3.403333
+        },
+        {
+          "text": "政府が止めに入るほどよ。",
+          "duration": 1.333333,
+          "offset": 7.414666
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "segment_005_shonen.wav",
+      "subtitle_file": "segment_005_shonen_subtitle.txt",
+      "duration": 2.037333333333333,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "原価割れって、売るほど赤字ですよね...。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "原価割れって、売るほど赤字ですよね...。",
+          "duration": 2.037333,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "segment_006_amy_sensei.wav",
+      "subtitle_file": "segment_006_amy_sensei_subtitle.txt",
+      "duration": 7.0633333333333335,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "そう。そしてこれを一番早く見抜いた人がいるの。投資の神様バフェット。17年間持ったBYD株を全て売り切ったわ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "そう。",
+          "duration": 0.352,
+          "offset": 0.0
+        },
+        {
+          "text": "そしてこれを一番早く見抜いた人がいるの。",
+          "duration": 2.282667,
+          "offset": 0.502
+        },
+        {
+          "text": "投資の神様バフェット。",
+          "duration": 1.173333,
+          "offset": 2.934667
+        },
+        {
+          "text": "17年間持ったBYD株を全て売り切ったわ。",
+          "duration": 2.805333,
+          "offset": 4.258
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "segment_007_shonen.wav",
+      "subtitle_file": "segment_007_shonen_subtitle.txt",
+      "duration": 2.368,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "バフェットが逃げたってことは相当やばいですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "バフェットが逃げたってことは相当やばいですか？",
+          "duration": 2.368,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "segment_008_amy_sensei.wav",
+      "subtitle_file": "segment_008_amy_sensei_subtitle.txt",
+      "duration": 7.073333333333333,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "バフェットだけじゃない。中国の富裕層7800人が8兆円の資産を持って国外に出たの。一番成功した人たちが逃げてるのよ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "バフェットだけじゃない。",
+          "duration": 0.874667,
+          "offset": 0.0
+        },
+        {
+          "text": "中国の富裕層7800人が8兆円の資産を持って国外に出たの。",
+          "duration": 3.978667,
+          "offset": 1.024667
+        },
+        {
+          "text": "一番成功した人たちが逃げてるのよ。",
+          "duration": 1.92,
+          "offset": 5.153334
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "segment_009_shonen.wav",
+      "subtitle_file": "segment_009_shonen_subtitle.txt",
+      "duration": 1.8346666666666667,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "これってBYDだけの問題ですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "これってBYDだけの問題ですか？",
+          "duration": 1.834667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "segment_010_amy_sensei.wav",
+      "subtitle_file": "segment_010_amy_sensei_subtitle.txt",
+      "duration": 10.402666666666667,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "これ実は3回目なの。不動産で恒大集団が負債48兆円で崩壊。太陽光パネルも9割が赤字。そして今EVで同じこと。補助金で膨らませて、潰し合って、焼け野原。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "これ実は3回目なの。",
+          "duration": 1.205333,
+          "offset": 0.0
+        },
+        {
+          "text": "不動産で恒大集団が負債48兆円で崩壊。",
+          "duration": 2.826667,
+          "offset": 1.355333
+        },
+        {
+          "text": "太陽光パネルも9割が赤字。",
+          "duration": 1.696,
+          "offset": 4.332
+        },
+        {
+          "text": "そして今EVで同じこと。",
+          "duration": 1.386667,
+          "offset": 6.178
+        },
+        {
+          "text": "補助金で膨らませて、潰し合って、焼け野原。",
+          "duration": 2.688,
+          "offset": 7.714667
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "segment_011_shonen.wav",
+      "subtitle_file": "segment_011_shonen_subtitle.txt",
+      "duration": 2.7733333333333334,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "3回同じパターンって、構造的な問題ですね...。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "3回同じパターンって、構造的な問題ですね...。",
+          "duration": 2.773333,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "segment_012_amy_sensei.wav",
+      "subtitle_file": "segment_012_amy_sensei_subtitle.txt",
+      "duration": 4.981333333333334,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "こういう経済の裏側、もっと知りたいかたは、チャンネル登録といいね、よろしくお願いします。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "こういう経済の裏側、もっと知りたいかたは、チャンネル登録といいね、よろしくお願いします。",
+          "duration": 4.981333,
+          "offset": 0.0
+        }
+      ]
+    }
+  ],
+  "total_duration": 61.37466666666667
+}

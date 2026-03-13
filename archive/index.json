@@ -1,0 +1,37 @@
+[
+  {
+    "theme": "EV大国の給油パニック",
+    "video_id": "p8E8hrM8i7Y",
+    "date": "2026-03-13",
+    "images": [
+      {"file": "EV大国の給油パニック/scene_01.png", "description": "少年+エイミー先生 EV大国に驚く冒頭", "tags": ["少年", "エイミー先生", "オープニング"]},
+      {"file": "EV大国の給油パニック/scene_02.png", "description": "深夜のガソリンスタンド大行列モブ群衆", "tags": ["ガソリンスタンド", "行列", "モブ"]},
+      {"file": "EV大国の給油パニック/scene_03.png", "description": "モブ市民が給油待ち 0.55元コイン", "tags": ["値上げ", "モブ"]},
+      {"file": "EV大国の給油パニック/scene_05.png", "description": "EV充電ステーション vs ガソリン行列の街並み", "tags": ["EV", "ガソリン", "対比"]},
+      {"file": "EV大国の給油パニック/scene_07.png", "description": "少年メディア報道に騙されたと気づく", "tags": ["少年", "メディア", "驚き"]},
+      {"file": "EV大国の給油パニック/scene_08.png", "description": "新車EV販売50% vs 実走行ガソリン車の対比", "tags": ["新車販売", "走行車", "対比"]},
+      {"file": "EV大国の給油パニック/scene_09.png", "description": "ホルムズ海峡と原油タンカー 地政学マップ", "tags": ["原油", "イラン", "ホルムズ海峡", "トランプ"]},
+      {"file": "EV大国の給油パニック/scene_10.png", "description": "エネルギーの急所を握る巨大な手", "tags": ["エネルギー", "制裁", "メタファー"]},
+      {"file": "EV大国の給油パニック/scene_11.png", "description": "停電した街で充電不可のEV エイミー先生", "tags": ["エイミー先生", "停電", "EV"]},
+      {"file": "EV大国の給油パニック/scene_12.png", "description": "EV+ガソリン車両方で困るモブパニック", "tags": ["パニック", "モブ"]},
+      {"file": "EV大国の給油パニック/scene_13.png", "description": "CTA 少年+エイミー先生チャンネル登録", "tags": ["CTA", "少年", "エイミー先生"]}
+    ]
+  },
+  {
+    "theme": "イラン中国に裏切られる",
+    "video_id": "OxCXjmjdAd4",
+    "date": "2026-03-13",
+    "images": [
+      {"file": "イラン中国に裏切られる/scene_01.png", "description": "少年+エイミー先生 中国の裏切りに驚く冒頭", "tags": ["少年", "エイミー先生", "オープニング"]},
+      {"file": "イラン中国に裏切られる/scene_02.png", "description": "中国外務省記者会見 イラン非難声明", "tags": ["中国", "記者会見", "モブ"]},
+      {"file": "イラン中国に裏切られる/scene_03.png", "description": "中国とイランの握手にヒビが入る", "tags": ["中国", "イラン", "裏切り"]},
+      {"file": "イラン中国に裏切られる/scene_04.png", "description": "4000億ドル契約書にXを書く中国リーダー", "tags": ["契約", "60兆円", "モブ"]},
+      {"file": "イラン中国に裏切られる/scene_05.png", "description": "少年 60兆円裏切りに衝撃", "tags": ["少年", "驚き"]},
+      {"file": "イラン中国に裏切られる/scene_06.png", "description": "二枚舌構図 表で非難・裏で兵器輸送", "tags": ["二枚舌", "兵器", "ワシントンポスト"]},
+      {"file": "イラン中国に裏切られる/scene_07.png", "description": "モブ群衆が兵器送りながら非難に驚愕", "tags": ["モブ", "驚き"]},
+      {"file": "イラン中国に裏切られる/scene_09.png", "description": "怒ったイランがホルムズ海峡を封鎖", "tags": ["イラン", "ホルムズ海峡", "封鎖"]},
+      {"file": "イラン中国に裏切られる/scene_10.png", "description": "エイミー先生 チェス盤で国際政治の現実を説く", "tags": ["エイミー先生", "チェス", "地政学"]},
+      {"file": "イラン中国に裏切られる/scene_11.png", "description": "CTA 少年+エイミー先生チャンネル登録", "tags": ["CTA", "少年", "エイミー先生"]}
+    ]
+  }
+]

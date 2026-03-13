@@ -1,0 +1,707 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "duration_sec": 64.67,
+  "layout": {
+    "type": "combined",
+    "top_bar": {
+      "height": 656,
+      "font_size": 72
+    },
+    "content": {
+      "y": 656,
+      "width": 1080,
+      "height": 608
+    },
+    "subtitle": {
+      "y": 1294,
+      "font_size": 84,
+      "outline_width": 10,
+      "height": 360
+    },
+    "effects": {}
+  },
+  "bgm": {
+    "file": "assets/bgm/bgm_dramatic_march.mp3",
+    "volume": 0.08,
+    "loop": true
+  },
+  "theme_title": "{red:BYD}の崩壊",
+  "concentration_scenes": [
+    "scene_06",
+    "scene_09"
+  ],
+  "timeline": [
+    {
+      "layer": "info_panel",
+      "time_start": 0,
+      "time_end": 5.111,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_01.mp4",
+        "ken_burns": true,
+        "kb_intensity": 2
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 0,
+      "time_end": 4.811,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.0,
+      "time_end": 1.503333,
+      "params": {
+        "text": "先生、中国のBYD、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 1.503333,
+      "time_end": 3.006667,
+      "params": {
+        "text": "国内販売マイナス65"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 3.006667,
+      "time_end": 4.51,
+      "params": {
+        "text": "パーセントって本当で"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.51,
+      "time_end": 4.51,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.51,
+      "time_end": 4.51,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.51,
+      "time_end": 4.51,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.51,
+      "time_end": 4.51,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.51,
+      "time_end": 4.810667,
+      "params": {
+        "text": "すか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 5.110667,
+      "time_end": 5.708,
+      "params": {
+        "text": "本当よ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 5.111,
+      "time_end": 12.997,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_02.mp4",
+        "ken_burns": true,
+        "kb_intensity": 2
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 5.111,
+      "time_end": 12.697,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/swipe1.mp3",
+        "type": "whoosh"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 5.858,
+      "time_end": 7.6819999999999995,
+      "params": {
+        "text": "1ヶ月で客の3分の2が消えた"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 7.832,
+      "time_end": 10.04,
+      "params": {
+        "text": "しかも海外販売が初めて国内を超えたの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.19,
+      "time_end": 11.509298,
+      "params": {
+        "text": "自国民が買わない車を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 11.509298,
+      "time_end": 12.696667,
+      "params": {
+        "text": "外国に売ってるのよ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 12.996667,
+      "time_end": 14.692667,
+      "params": {
+        "text": "なんでそんなに売れなくなったんですか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 12.997,
+      "time_end": 14.993,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_03.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 14.992667,
+      "time_end": 16.767212,
+      "params": {
+        "text": "不動産バブル崩壊で家計の"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 14.993,
+      "time_end": 24.041,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_04.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 14.993,
+      "time_end": 23.741,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/shock.mp3",
+        "type": "impact"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.767212,
+      "time_end": 18.246,
+      "params": {
+        "text": "含み損が4500兆円"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 18.396,
+      "time_end": 19.641591,
+      "params": {
+        "text": "しかもEVメーカーが"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 19.641591,
+      "time_end": 21.011742,
+      "params": {
+        "text": "300社以上乱立して、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 21.011742,
+      "time_end": 22.257333,
+      "params": {
+        "text": "原価割れの値下げ合戦"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 22.407333,
+      "time_end": 23.740666,
+      "params": {
+        "text": "政府が止めに入るほどよ",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 24.040667,
+      "time_end": 24.753734,
+      "params": {
+        "text": "原価割れって、"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 24.041,
+      "time_end": 26.378,
+      "params": {
+        "asset": "BYDの崩壊/assets/panels/ev_price_war.png",
+        "ken_burns": false,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 24.753734,
+      "time_end": 26.078,
+      "params": {
+        "text": "売るほど赤字ですよね..."
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 26.378,
+      "time_end": 33.741,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_06.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "concentration_lines": true
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 26.378,
+      "time_end": 33.441,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 26.378,
+      "time_end": 26.73,
+      "params": {
+        "text": "そう"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 26.88,
+      "time_end": 28.802246,
+      "params": {
+        "text": "そしてこれを一番早く見抜いた人が"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 28.802246,
+      "time_end": 29.162667,
+      "params": {
+        "text": "いるの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 29.312667,
+      "time_end": 30.486,
+      "params": {
+        "text": "投資の神様バフェット"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 30.636,
+      "time_end": 32.3192,
+      "params": {
+        "text": "17年間持ったBYD株を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 32.3192,
+      "time_end": 33.441333,
+      "params": {
+        "text": "全て売り切ったわ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 33.741,
+      "time_end": 36.409,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_07.png",
+        "ken_burns": true,
+        "kb_intensity": 3.5,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 8,
+          "rgb_shift": true,
+          "rgb_intensity": 3
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 33.741,
+      "time_end": 36.109,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.741333,
+      "time_end": 35.140606,
+      "params": {
+        "text": "バフェットが逃げたってこと"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 35.140606,
+      "time_end": 36.109333,
+      "params": {
+        "text": "は相当やばいですか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 36.409,
+      "time_end": 43.783,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_08.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 36.409,
+      "time_end": 43.483,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 36.409333,
+      "time_end": 37.284,
+      "params": {
+        "text": "バフェットだけじゃない"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.434,
+      "time_end": 39.707524,
+      "params": {
+        "text": "中国の富裕層7800人が8兆円の"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 39.707524,
+      "time_end": 41.412667,
+      "params": {
+        "text": "資産を持って国外に出たの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 41.562667,
+      "time_end": 43.482667,
+      "params": {
+        "text": "一番成功した人たちが逃げてるのよ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 43.782667,
+      "time_end": 45.617334,
+      "params": {
+        "text": "これってBYDだけの問題ですか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 43.783,
+      "time_end": 45.917,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_09.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "concentration_lines": true
+        }
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 45.917,
+      "time_end": 50.8,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_10.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 45.917,
+      "time_end": 50.5,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/shock.mp3",
+        "type": "impact"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 45.917333,
+      "time_end": 47.122666,
+      "params": {
+        "text": "これ実は3回目なの",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 47.272666,
+      "time_end": 50.099333,
+      "params": {
+        "text": "不動産で恒大集団が負債48兆円で崩壊",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 50.249333,
+      "time_end": 51.945333,
+      "params": {
+        "text": "太陽光パネルも9割が赤字",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 50.8,
+      "time_end": 54.8,
+      "params": {
+        "asset": "BYDの崩壊/assets/panels/three_cycles.png",
+        "ken_burns": false,
+        "kb_intensity": 3,
+        "kb_direction": "pan_right",
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 50.8,
+      "time_end": 54.5,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/shock.mp3",
+        "type": "impact"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 52.095333,
+      "time_end": 53.482,
+      "params": {
+        "text": "そして今EVで同じこと",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 53.632,
+      "time_end": 55.7824,
+      "params": {
+        "text": "補助金で膨らませて、潰し合って、"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 54.8,
+      "time_end": 56.62,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_12.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 54.8,
+      "time_end": 56.62,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/shock.mp3",
+        "type": "impact"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 55.7824,
+      "time_end": 56.32,
+      "params": {
+        "text": "焼け野原"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 56.62,
+      "time_end": 59.693,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_13.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 56.62,
+      "time_end": 57.946377,
+      "params": {
+        "text": "3回同じパターンって、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 57.946377,
+      "time_end": 59.393333,
+      "params": {
+        "text": "構造的な問題ですね..."
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 59.693,
+      "time_end": 64.675,
+      "params": {
+        "asset": "BYDの崩壊/assets/scenes/scene_14.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 59.693333,
+      "time_end": 60.851783,
+      "params": {
+        "text": "こういう経済の裏側、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 60.851783,
+      "time_end": 62.126077,
+      "params": {
+        "text": "もっと知りたいかたは、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 62.126077,
+      "time_end": 63.516216,
+      "params": {
+        "text": "チャンネル登録といいね、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 63.516216,
+      "time_end": 64.674666,
+      "params": {
+        "text": "よろしくお願いします"
+      }
+    }
+  ]
+}

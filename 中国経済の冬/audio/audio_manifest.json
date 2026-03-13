@@ -1,0 +1,309 @@
+{
+  "segments": [
+    {
+      "index": 0,
+      "file": "segment_001_shonen.wav",
+      "subtitle_file": "segment_001_shonen_subtitle.txt",
+      "duration": 5.3053333333333335,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "先生、中国のGDP成長率って5パーセントもあるんですよね？景気いいんじゃないですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "先生、中国のGDP成長率って5パーセントもあるんですよね？",
+          "duration": 3.957333,
+          "offset": 0.0
+        },
+        {
+          "text": "景気いいんじゃないですか？",
+          "duration": 1.248,
+          "offset": 4.057333
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "file": "segment_002_amy_sensei.wav",
+      "subtitle_file": "segment_002_amy_sensei_subtitle.txt",
+      "duration": 3.6906666666666665,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "それがね、景気が良くなったと答えた企業、たったの1パーセントなの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "それがね、景気が良くなったと答えた企業、たったの1パーセントなの。",
+          "duration": 3.690667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "segment_003_shonen.wav",
+      "subtitle_file": "segment_003_shonen_subtitle.txt",
+      "duration": 2.6133333333333333,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "えっ、5パーセント成長なのに1パーセント？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "えっ、5パーセント成長なのに1パーセント？",
+          "duration": 2.613333,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "segment_004_amy_sensei.wav",
+      "subtitle_file": "segment_004_amy_sensei_subtitle.txt",
+      "duration": 8.428666666666667,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "数字の裏を見てみましょう。かつて月額50万円だった家賃が、今は1万円。入居率たったの5パーセント。マンションは建ったけど、誰も住んでいないの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "数字の裏を見てみましょう。",
+          "duration": 1.28,
+          "offset": 0.0
+        },
+        {
+          "text": "かつて月額50万円だった家賃が、今は1万円。",
+          "duration": 3.104,
+          "offset": 1.43
+        },
+        {
+          "text": "入居率たったの5パーセント。",
+          "duration": 1.429333,
+          "offset": 4.684
+        },
+        {
+          "text": "マンションは建ったけど、誰も住んでいないの。",
+          "duration": 2.165333,
+          "offset": 6.263333
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "segment_005_shonen.wav",
+      "subtitle_file": "segment_005_shonen_subtitle.txt",
+      "duration": 1.184,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "ゴーストタウンじゃないですか...。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "ゴーストタウンじゃないですか...。",
+          "duration": 1.184,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "segment_006_amy_sensei.wav",
+      "subtitle_file": "segment_006_amy_sensei_subtitle.txt",
+      "duration": 6.475333333333333,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "不動産の販売額は前年比17パーセントの大暴落。70都市中70都市すべてで住宅価格が下がったわ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "不動産の販売額は前年比17パーセントの大暴落。",
+          "duration": 3.296,
+          "offset": 0.0
+        },
+        {
+          "text": "70都市中70都市すべてで住宅価格が下がったわ。",
+          "duration": 3.029333,
+          "offset": 3.446
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "segment_007_shonen.wav",
+      "subtitle_file": "segment_007_shonen_subtitle.txt",
+      "duration": 0.8146666666666667,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "全部ですか！？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "全部ですか！",
+          "duration": 0.650667,
+          "offset": 0.0
+        },
+        {
+          "text": "？",
+          "duration": 0.064,
+          "offset": 0.750667
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "segment_008_amy_sensei.wav",
+      "subtitle_file": "segment_008_amy_sensei_subtitle.txt",
+      "duration": 9.133333333333333,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "街からモノが売れる音が消えたの。物価の上昇率ゼロ。16年ぶりよ。若者の6人に1人が仕事に就けていない。出生数は建国以来最少の792万人。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "街からモノが売れる音が消えたの。",
+          "duration": 1.578667,
+          "offset": 0.0
+        },
+        {
+          "text": "物価の上昇率ゼロ。",
+          "duration": 1.130667,
+          "offset": 1.728667
+        },
+        {
+          "text": "16年ぶりよ。",
+          "duration": 0.906667,
+          "offset": 3.009334
+        },
+        {
+          "text": "若者の6人に1人が仕事に就けていない。",
+          "duration": 2.037333,
+          "offset": 4.066001
+        },
+        {
+          "text": "出生数は建国以来最少の792万人。",
+          "duration": 2.88,
+          "offset": 6.253334
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "segment_009_shonen.wav",
+      "subtitle_file": "segment_009_shonen_subtitle.txt",
+      "duration": 2.8266666666666667,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "それって1990年代の日本と同じ道じゃ...。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "それって1990年代の日本と同じ道じゃ...。",
+          "duration": 2.826667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "segment_010_amy_sensei.wav",
+      "subtitle_file": "segment_010_amy_sensei_subtitle.txt",
+      "duration": 8.929333333333334,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "その通り。地方政府の借金は2900兆円に膨らんで、ついに中国政府自身が認めたの。全人代で成長率目標を35年ぶりに引き下げたわ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "その通り。",
+          "duration": 0.586667,
+          "offset": 0.0
+        },
+        {
+          "text": "地方政府の借金は2900兆円に膨らんで、ついに中国政府自身が認めたの。",
+          "duration": 4.757333,
+          "offset": 0.736667
+        },
+        {
+          "text": "全人代で成長率目標を35年ぶりに引き下げたわ。",
+          "duration": 3.285333,
+          "offset": 5.644
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "segment_011_shonen.wav",
+      "subtitle_file": "segment_011_shonen_subtitle.txt",
+      "duration": 1.6533333333333333,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "日本企業はどう見てるんですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "日本企業はどう見てるんですか？",
+          "duration": 1.653333,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "segment_012_amy_sensei.wav",
+      "subtitle_file": "segment_012_amy_sensei_subtitle.txt",
+      "duration": 8.748,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "現場の日本企業1427社に聞いた結果、良くなると答えたのは1パーセント。良くならない、99パーセント。この国の冬は、もう始まっているわ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "現場の日本企業1427社に聞いた結果、良くなると答えたのは1パーセント。",
+          "duration": 4.8,
+          "offset": 0.0
+        },
+        {
+          "text": "良くならない、99パーセント。",
+          "duration": 1.781333,
+          "offset": 4.95
+        },
+        {
+          "text": "この国の冬は、もう始まっているわ。",
+          "duration": 1.866667,
+          "offset": 6.881333
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "segment_013_shonen.wav",
+      "subtitle_file": "segment_013_shonen_subtitle.txt",
+      "duration": 4.597333333333333,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "経済の裏側、もっと知りたいかたは、チャンネル登録といいね、よろしくお願いします！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "経済の裏側、もっと知りたいかたは、チャンネル登録といいね、よろしくお願いします！",
+          "duration": 4.597333,
+          "offset": 0.0
+        }
+      ]
+    }
+  ],
+  "total_duration": 64.4
+}

@@ -1,0 +1,559 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "duration_sec": 67.25,
+  "layout": {
+    "type": "combined",
+    "top_bar": {
+      "height": 656,
+      "font_size": 72
+    },
+    "content": {
+      "y": 656,
+      "width": 1080,
+      "height": 608
+    },
+    "subtitle": {
+      "y": 1294,
+      "font_size": 84,
+      "outline_width": 10,
+      "height": 360
+    },
+    "effects": {}
+  },
+  "bgm": {
+    "file": "assets/bgm/bgm_dramatic_march.mp3",
+    "volume": 0.08,
+    "loop": true
+  },
+  "theme_title": "中国が隠した{red:日本依存}の闇",
+  "concentration_scenes": [
+    "scene_07"
+  ],
+  "timeline": [
+    {
+      "layer": "info_panel",
+      "time_start": 0.0,
+      "time_end": 6.042,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_01.mp4"
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 0.0,
+      "time_end": 1.5,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.0,
+      "time_end": 0.374857,
+      "params": {
+        "text": "先生、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.374857,
+      "time_end": 2.873905,
+      "params": {
+        "text": "中国が日本に制裁を仕掛けたってニュースを"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 2.873905,
+      "time_end": 3.873524,
+      "params": {
+        "text": "見たんですけど、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 3.873524,
+      "time_end": 5.248,
+      "params": {
+        "text": "日本は大丈夫なんですか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 6.042,
+      "time_end": 12.084,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_02.mp4",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 5.548,
+      "time_end": 6.83977,
+      "params": {
+        "text": "2026年1月、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 6.83977,
+      "time_end": 8.389,
+      "params": {
+        "text": "中国は軍民両用品の"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 8.389,
+      "time_end": 10.230667,
+      "params": {
+        "text": "対日輸出禁止を発表したわ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.380667,
+      "time_end": 11.554,
+      "params": {
+        "text": "でもね、面白いのは"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 11.554,
+      "time_end": 12.972667,
+      "params": {
+        "text": "その裏で起きていることなの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 12.084,
+      "time_end": 14.981,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_03.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 13.272667,
+      "time_end": 14.680667,
+      "params": {
+        "text": "裏で何が起きてるんですか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 14.980667,
+      "time_end": 17.139397,
+      "params": {
+        "text": "日本はフォトレジストという半導体に"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 14.981,
+      "time_end": 20.314,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_04_test.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 14.981,
+      "time_end": 25.094,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/panels/photoresist_share_v2.jpg",
+        "ken_burns": false
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 17.139397,
+      "time_end": 18.028286,
+      "params": {
+        "text": "必須の素材で、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 18.028286,
+      "time_end": 20.314,
+      "params": {
+        "text": "高性能品の95パーセントを握ってるの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 20.464,
+      "time_end": 21.36,
+      "params": {
+        "text": "2025年末、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 21.36,
+      "time_end": 24.176,
+      "params": {
+        "text": "日本企業は静かに中国からフォトレジスト事業を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 24.176,
+      "time_end": 24.944,
+      "params": {
+        "text": "引き揚げたの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 25.094,
+      "time_end": 28.743,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/panels/shinetsu_export_drop_v2.jpg",
+        "ken_burns": false
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.094,
+      "time_end": 26.908222,
+      "params": {
+        "text": "信越化学の対中輸出は一気に"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 26.908222,
+      "time_end": 28.443333,
+      "params": {
+        "text": "42パーセント減ったわ"
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 27.036,
+      "time_end": 28.5,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/shock.mp3",
+        "type": "impact"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 28.743,
+      "time_end": 32.223,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_07.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "shake": true,
+          "shake_intensity": 6,
+          "concentration_lines": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 28.743333,
+      "time_end": 31.420666,
+      "params": {
+        "text": "えっ、日本側から先に引いたってことですか",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 6
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 31.720667,
+      "time_end": 32.072666999999996,
+      "params": {
+        "text": "そう"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 32.222667,
+      "time_end": 34.674154,
+      "params": {
+        "text": "中国は2026年までにフォトレジストの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 32.223,
+      "time_end": 39.082,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/panels/localization_vs_v2.jpg",
+        "ken_burns": false
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 34.674154,
+      "time_end": 36.222462,
+      "params": {
+        "text": "国産化率40パーセントを"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 36.222462,
+      "time_end": 37.254667,
+      "params": {
+        "text": "目指してるけど、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.254667,
+      "time_end": 38.932,
+      "params": {
+        "text": "今はまだ10パーセント程度"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 39.082,
+      "time_end": 42.987,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_09_test.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 39.082,
+      "time_end": 40.498381,
+      "params": {
+        "text": "つまり日本が抜けたら、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 40.498381,
+      "time_end": 42.687333,
+      "params": {
+        "text": "中国の半導体工場は動かせなくなるの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 42.987,
+      "time_end": 47.526,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_10.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 42.987333,
+      "time_end": 44.395,
+      "params": {
+        "text": "じゃあ中国のレアアース制裁は"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 44.395,
+      "time_end": 45.440666,
+      "params": {
+        "text": "どうなんですか"
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 45.518,
+      "time_end": 49.657,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/heartbeat.mp3",
+        "type": "tension"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 45.540666,
+      "time_end": 47.225999,
+      "params": {
+        "text": "あっちも止められたら困りますよね"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 47.526,
+      "time_end": 51.815,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_11.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 47.526,
+      "time_end": 49.207333,
+      "params": {
+        "text": "実は中国のレアアース規制、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 49.207333,
+      "time_end": 51.664667,
+      "params": {
+        "text": "発表はしたけど実施を1年間棚上げしたの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 51.814667,
+      "time_end": 52.88,
+      "params": {
+        "text": "本気で止めたら、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 52.88,
+      "time_end": 54.172,
+      "params": {
+        "text": "日本のフォトレジストも止まる"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 51.815,
+      "time_end": 56.382,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/panels/rareearth_vs_photoresist_v2.jpg",
+        "ken_burns": false
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 54.224,
+      "time_end": 55.7,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/shock.mp3",
+        "type": "impact"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 54.322,
+      "time_end": 56.082,
+      "params": {
+        "text": "お互いに首を絞め合う構造なのよ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 56.382,
+      "time_end": 58.655,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_13.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 56.382,
+      "time_end": 58.355332999999995,
+      "params": {
+        "text": "チキンレースみたいな状態ってことですか..."
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 56.497,
+      "time_end": 58.0,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/swipe1.mp3",
+        "type": "whoosh"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 58.655,
+      "time_end": 62.453,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_14_test.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 58.655333,
+      "time_end": 61.040564,
+      "params": {
+        "text": "しかも日本は南鳥島沖でレアアースの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 61.040564,
+      "time_end": 62.303333,
+      "params": {
+        "text": "海底採掘を始めたわ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 62.453,
+      "time_end": 67.254,
+      "params": {
+        "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_15.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 62.453333,
+      "time_end": 65.130666,
+      "params": {
+        "text": "成功すれば中国カードの威力は大幅に落ちる"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 65.280666,
+      "time_end": 67.253999,
+      "params": {
+        "text": "静かに、でも着実に手を打ってるの"
+      }
+    }
+  ]
+}

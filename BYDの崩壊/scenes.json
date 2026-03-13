@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "topic": "BYDの崩壊",
+    "theme_title": "{red:BYD}の崩壊",
+    "mood": "dramatic",
+    "total_duration": 65.2,
+    "total_scenes": 14,
+    "style": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, emoji-faced mob characters",
+    "references": {
+      "ref": "assets/image_library/characters/references/reference.png"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "asset": "BYDの崩壊/assets/scenes/scene_01.mp4",
+      "asset_type": "gemini",
+      "text": "先生、中国の{red:BYD}、国内販売{red:マイナス65パーセント}って本当ですか？",
+      "start": 0.0,
+      "end": 5.311,
+      "description": "少年がBYDのニュースを見て驚いて質問する冒頭シーン",
+      "sentence_indices": [0],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A chibi boy (teal hair, round glasses, white dinosaur hoodie) facing the viewer with a shocked expression, holding a tablet showing a BYD sales crash chart with '-65%' in large red numbers. Amy-sensei (silver/white long hair, blue eyes, red/maroon blazer) standing next to him, also facing the viewer with a serious expression. A BYD logo and Chinese flag in the background. Dramatic red and dark blue lighting."
+    },
+    {
+      "id": "scene_02",
+      "asset": "BYDの崩壊/assets/scenes/scene_02.mp4",
+      "asset_type": "gemini",
+      "text": "本当よ。{red:1ヶ月で客の3分の2}が消えた。しかも{red:海外販売}が初めて国内を超えたの。自国民が買わない車を外国に売ってるのよ。",
+      "start": 5.611,
+      "end": 13.197,
+      "description": "ガラガラのBYDショールーム、一方で船積みされるEV",
+      "sentence_indices": [1],
+      "ref_image": "ref",
+      "ken_burns": "pan_left",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: Split composition. Left side: An empty BYD car showroom with shiny EVs but zero customers. A lonely emoji-faced salesperson with 😰 worried face standing by a car. Right side: A cargo ship being loaded with BYD cars for export, with emoji-faced dock workers. A large sign shows 'EXPORT > DOMESTIC' with arrows. Amy-sensei (silver hair, red blazer) in the foreground facing the viewer, explaining with a serious expression."
+    },
+    {
+      "id": "scene_03",
+      "asset": "BYDの崩壊/assets/scenes/scene_03.png",
+      "asset_type": "gemini",
+      "text": "なんでそんなに売れなくなったんですか？",
+      "start": 13.497,
+      "end": 15.193,
+      "description": "少年が疑問を呈する（短い掛け合い）",
+      "sentence_indices": [2],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: The chibi boy (teal hair, round glasses, white dinosaur hoodie) facing the viewer with a puzzled, questioning expression, tilting his head. Behind him, a large question mark and faded images of BYD cars. Simple, focused composition with the boy as the main subject. Soft blue-gray background."
+    },
+    {
+      "id": "scene_04",
+      "asset": "BYDの崩壊/assets/scenes/scene_04.png",
+      "asset_type": "gemini",
+      "text": "不動産バブル崩壊で家計の含み損が{red:4500兆円}。しかもEVメーカーが{red:300社以上}乱立して、原価割れの値下げ合戦。政府が止めに入るほどよ。",
+      "start": 15.493,
+      "end": 24.241,
+      "description": "崩壊するマンション群と乱立するEVメーカーの看板",
+      "sentence_indices": [3],
+      "ref_image": "ref",
+      "ken_burns": "pan_right",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A chaotic street scene. Left side shows crumbling apartment buildings with '¥4,500兆' debt counter above them. Right side shows a car street with 20+ different EV brand signs crammed together, all with 'SALE!' '50% OFF!' price tags. Emoji-faced mob car dealers with 😤 angry faces fighting each other over customers. A government official mob character with 🛑 stop sign trying to intervene. Red and orange chaotic lighting."
+    },
+    {
+      "id": "scene_05",
+      "asset": "BYDの崩壊/assets/panels/ev_price_war.png",
+      "asset_type": "pillow",
+      "text": "原価割れって、売るほど赤字ですよね...。",
+      "start": 24.541,
+      "end": 26.578,
+      "description": "EV価格戦争のデータパネル（300社乱立・原価割れ）",
+      "sentence_indices": [4],
+      "ken_burns": "none"
+    },
+    {
+      "id": "scene_06",
+      "asset": "BYDの崩壊/assets/scenes/scene_06.png",
+      "asset_type": "gemini",
+      "text": "そう。そしてこれを一番早く見抜いた人がいるの。投資の神様{red:バフェット}。{red:17年間}持ったBYD株を全て売り切ったわ。",
+      "start": 26.878,
+      "end": 33.941,
+      "description": "バフェットがBYD株を売り切る劇的シーン",
+      "sentence_indices": [5],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A dramatic scene. An elderly emoji-faced mob character representing Buffett (wearing glasses, suit, holding a 'SELL ALL' stamp) in the center. Behind him, a stock chart showing BYD shares being sold over 17 years with a dramatic red downward arrow at the end. Amy-sensei (silver hair, red blazer) on the right side facing the viewer, pointing at the chart with a knowing expression. Dollar signs floating away. Dark dramatic lighting with red accents."
+    },
+    {
+      "id": "scene_07",
+      "asset": "BYDの崩壊/assets/scenes/scene_07.png",
+      "asset_type": "gemini",
+      "text": "バフェットが逃げたってことは相当やばいですか？",
+      "start": 34.241,
+      "end": 36.609,
+      "description": "少年が不安げに質問",
+      "sentence_indices": [6],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: The chibi boy (teal hair, round glasses, white dinosaur hoodie) facing the viewer with a worried, anxious expression, biting his lip. Behind him, a faded silhouette of Buffett walking away through a door. Red warning lights and alarm symbols in the background. Tense atmosphere with dark blue and red lighting."
+    },
+    {
+      "id": "scene_08",
+      "asset": "BYDの崩壊/assets/scenes/scene_08.png",
+      "asset_type": "gemini",
+      "text": "バフェットだけじゃない。中国の富裕層{red:7800人}が{red:8兆円}の資産を持って国外に出たの。一番成功した人たちが逃げてるのよ。",
+      "start": 36.909,
+      "end": 43.983,
+      "description": "富裕層が資産を持って国外脱出する群衆シーン",
+      "sentence_indices": [7],
+      "ref_image": "ref",
+      "ken_burns": "pan_left",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: An airport departure terminal. A long line of emoji-faced mob characters in expensive suits carrying briefcases overflowing with money 💰, heading toward gates labeled 'USA', 'Singapore', 'Canada'. A counter shows '7,800人 / ¥8兆' in red. Behind them, a fading Chinese flag. Amy-sensei (silver hair, red blazer) in the foreground facing the viewer with a grave expression. Dramatic lighting, sense of exodus."
+    },
+    {
+      "id": "scene_09",
+      "asset": "BYDの崩壊/assets/scenes/scene_09.png",
+      "asset_type": "gemini",
+      "text": "これってBYDだけの問題ですか？",
+      "start": 44.283,
+      "end": 46.117,
+      "description": "少年が本質的な疑問を投げかける",
+      "sentence_indices": [8],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: The chibi boy (teal hair, round glasses, white dinosaur hoodie) facing the viewer with a serious, thoughtful expression. Behind him, three large domino blocks labeled '不動産', '太陽光', 'EV' — the first two already fallen, the third starting to tip. Dark, ominous background with dramatic red backlighting."
+    },
+    {
+      "id": "scene_10",
+      "asset": "BYDの崩壊/assets/scenes/scene_10.png",
+      "asset_type": "gemini",
+      "text": "これ実は{red:3回目}なの。不動産で恒大集団が負債{red:48兆円}で崩壊。",
+      "start": 46.417,
+      "end": 51.0,
+      "description": "恒大集団のビルが崩壊するシーン（1回目のパターン）",
+      "sentence_indices": [9],
+      "ref_image": "ref",
+      "ken_burns": "pan_right",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A crumbling skyscraper with 'EVERGRANDE 恒大' logo, breaking apart into pieces. Debris and money bills flying everywhere. A giant red counter shows '¥48兆 DEBT'. Amy-sensei (silver hair, red blazer) in the left foreground facing the viewer, holding up one finger (indicating 'first time'). 3 emoji-faced mob characters with 😱 shocked faces running away. Dramatic destruction scene with red and orange lighting."
+    },
+    {
+      "id": "scene_11",
+      "asset": "BYDの崩壊/assets/panels/three_cycles.png",
+      "asset_type": "pillow",
+      "text": "太陽光パネルも{red:9割が赤字}。そして今EVで同じこと。",
+      "start": 51.3,
+      "end": 55.0,
+      "description": "3回の崩壊パターン比較データパネル（不動産・太陽光・EV）",
+      "sentence_indices": [9],
+      "ken_burns": "none"
+    },
+    {
+      "id": "scene_12",
+      "asset": "BYDの崩壊/assets/scenes/scene_12.png",
+      "asset_type": "gemini",
+      "text": "補助金で膨らませて、潰し合って、{red:焼け野原}。",
+      "start": 55.3,
+      "end": 57.12,
+      "description": "焼け野原に立つエイミー先生、EV工場の残骸",
+      "sentence_indices": [9],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A post-apocalyptic landscape of destroyed EV factories. Burned-out car shells, broken factory chimneys, scattered company logos half-buried in ash. Amy-sensei (silver hair, red blazer) standing in the center facing the viewer with a solemn, sad expression. Smoke rising in the background. Desolate gray-brown color palette with orange fire glow on the horizon."
+    },
+    {
+      "id": "scene_13",
+      "asset": "BYDの崩壊/assets/scenes/scene_13.png",
+      "asset_type": "gemini",
+      "text": "{red:3回}同じパターンって、構造的な問題ですね...。",
+      "start": 57.12,
+      "end": 59.893,
+      "description": "少年が構造的問題を悟る",
+      "sentence_indices": [10],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: The chibi boy (teal hair, round glasses, white dinosaur hoodie) facing the viewer with a contemplative, slightly sad expression. Behind him, a circular arrow diagram showing the cycle: '補助金' → '過当競争' → '崩壊' → '補助金' repeating endlessly. The three sectors (不動産, 太陽光, EV) shown as completed cycles. Muted, thoughtful atmosphere with blue-gray lighting."
+    },
+    {
+      "id": "scene_14",
+      "asset": "BYDの崩壊/assets/scenes/scene_14.png",
+      "asset_type": "gemini",
+      "text": "こういう経済の裏側、もっと知りたいかたは、チャンネル登録といいね、よろしくお願いします。",
+      "start": 60.193,
+      "end": 65.175,
+      "description": "CTA — 少年とエイミー先生がチャンネル登録を呼びかけ",
+      "sentence_indices": [11],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A cheerful ending scene. The boy (teal hair, round glasses, white dinosaur hoodie) in the center facing the viewer with a big smile, waving and pointing to a large red SUBSCRIBE button. Amy-sensei (silver hair, red blazer) next to him facing the viewer with a warm smile. A thumbs-up icon and bell notification icon float nearby. Bright, warm yellow/orange background. Confetti and sparkles."
+    }
+  ]
+}

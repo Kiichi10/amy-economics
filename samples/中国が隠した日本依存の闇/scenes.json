@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "topic": "中国が隠した日本依存の闇",
+    "theme_title": "中国が隠した{red:日本依存}の闇",
+    "mood": "dramatic",
+    "total_duration": 67.254,
+    "total_scenes": 15,
+    "style": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, emoji-faced mob characters",
+    "references": {
+      "ref": "assets/image_library/characters/references/reference.png"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_01.png",
+      "asset_type": "gemini",
+      "text": "先生、{red:中国が日本に制裁}を仕掛けたってニュースを見たんですけど、日本は大丈夫なんですか？",
+      "start": 0.0,
+      "end": 5.248,
+      "description": "少年がリビングでTVニュースを見て驚く冒頭シーン",
+      "sentence_indices": [
+        0
+      ],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A living room. A chibi boy (teal hair, round glasses, white dinosaur hoodie, same height as teacher) sitting on a couch watching TV news. The TV shows a red BREAKING NEWS banner with Chinese and Japanese flags. The boy looks shocked with wide eyes. 2 emoji-faced mob characters (family members) also watching TV: one with 😰 worried face, one with 😮 surprised face. Warm cozy living room lighting."
+    },
+    {
+      "id": "scene_02",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_02.png",
+      "asset_type": "gemini",
+      "text": "2026年1月、中国は{red:軍民両用品の対日輸出禁止}を発表したわ。",
+      "start": 5.548,
+      "end": 10.231,
+      "description": "エイミー先生が中国の制裁発表を解説",
+      "sentence_indices": [
+        1
+      ],
+      "ref_image": "ref",
+      "ken_burns": "pan_left",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A dramatic news-style scene. Amy-sensei (silver/white long hair, blue eyes, red/maroon blazer) standing on the left, explaining with a serious expression. On the right, a large Chinese flag backdrop with a mob character in a dark formal suit with a 🇨🇳 Chinese flag circle as face, holding up a document with a red X mark. 2 more emoji-faced mob reporters with 😮 faces in the foreground taking notes. Dark dramatic lighting with red undertones."
+    },
+    {
+      "id": "scene_03",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_03.png",
+      "asset_type": "gemini",
+      "text": "でもね、{red:面白いのはその裏}で起きていることなの。",
+      "start": 10.381,
+      "end": 12.973,
+      "description": "エイミー先生が意味深に微笑む転換シーン",
+      "sentence_indices": [
+        1
+      ],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: Close-up style composition. Amy-sensei (silver/white long hair, blue eyes, red/maroon blazer) with a knowing, confident smirk, holding up one finger as if revealing a secret. Behind her, a split background: left side dark (China flag motif), right side bright (Japan flag motif). 2 emoji-faced mob characters behind her with 🤔 thinking faces, looking curious. Mysterious atmosphere."
+    },
+    {
+      "id": "scene_04",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_04_test.png",
+      "asset_type": "gemini",
+      "reuse": true,
+      "text": "日本は{red:フォトレジスト}という半導体に必須の素材で、{red:高性能品の95パーセント}を握ってるの。",
+      "start": 14.981,
+      "end": 20.314,
+      "description": "エイミー先生が半導体工場で日本のフォトレジスト優位性を解説",
+      "sentence_indices": [
+        3
+      ],
+      "ken_burns": "pan_right"
+    },
+    {
+      "id": "scene_05",
+      "asset": "samples/中国が隠した日本依存の闇/assets/panels/photoresist_share_v2.jpg",
+      "asset_type": "pillow",
+      "reuse": true,
+      "text": "日本は{red:フォトレジスト}という半導体に必須の素材で、{red:高性能品の95パーセント}を握ってるの。",
+      "start": 14.981,
+      "end": 20.314,
+      "description": "フォトレジスト市場シェア95%のデータパネル",
+      "sentence_indices": [
+        3
+      ],
+      "ken_burns": "zoom_in_center"
+    },
+    {
+      "id": "scene_06",
+      "asset": "samples/中国が隠した日本依存の闇/assets/panels/shinetsu_export_drop_v2.jpg",
+      "asset_type": "pillow",
+      "reuse": true,
+      "text": "{red:信越化学}の対中輸出は一気に{red:42パーセント減}ったわ。",
+      "start": 25.094,
+      "end": 28.443,
+      "description": "信越化学の対中輸出42%減のデータパネル",
+      "sentence_indices": [
+        3
+      ],
+      "ken_burns": "zoom_in_center"
+    },
+    {
+      "id": "scene_07",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_07.png",
+      "asset_type": "gemini",
+      "text": "えっ、{red:日本側から先に引いた}ってことですか？",
+      "start": 28.743,
+      "end": 31.421,
+      "description": "少年が驚いて聞き返す",
+      "sentence_indices": [
+        4
+      ],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: The boy (teal hair, round glasses, white dinosaur hoodie, same height as teacher) in the foreground with a shocked/surprised expression, eyes wide, mouth open. Amy-sensei (silver hair, red outfit) behind him with a confident knowing smile. Background: a simplified factory silhouette fading away, symbolizing Japan's withdrawal. 2 emoji-faced mob factory workers with 😰 worried faces watching in the background."
+    },
+    {
+      "id": "scene_08",
+      "asset": "samples/中国が隠した日本依存の闇/assets/panels/localization_vs_v2.jpg",
+      "asset_type": "pillow",
+      "reuse": true,
+      "text": "中国は2026年までにフォトレジストの{red:国産化率40パーセント}を目指してるけど、今はまだ{red:10パーセント}程度。",
+      "start": 32.223,
+      "end": 38.932,
+      "description": "中国の国産化率 目標40% vs 現実10% のデータパネル",
+      "sentence_indices": [
+        5
+      ],
+      "ken_burns": "zoom_in_center"
+    },
+    {
+      "id": "scene_09",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_09_test.png",
+      "asset_type": "gemini",
+      "reuse": true,
+      "text": "つまり日本が抜けたら、{red:中国の半導体工場は動かせなくなる}の。",
+      "start": 39.082,
+      "end": 42.687,
+      "description": "日中の対立構図 — エイミー先生＋少年 vs 中国国旗顔モブ",
+      "sentence_indices": [
+        5
+      ],
+      "ken_burns": "pan_left"
+    },
+    {
+      "id": "scene_10",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_10.png",
+      "asset_type": "gemini",
+      "text": "じゃあ中国の{red:レアアース制裁}はどうなんですか？あっちも止められたら困りますよね？",
+      "start": 42.987,
+      "end": 47.226,
+      "description": "少年がレアアースについて質問",
+      "sentence_indices": [
+        6
+      ],
+      "ref_image": "ref",
+      "ken_burns": "pan_right",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: The boy (teal hair, round glasses, white dinosaur hoodie) looking worried and questioning, hands up in a questioning gesture. Behind him, a visual of rare earth minerals (colorful glowing rocks/crystals) with a Chinese flag on one side. 3 emoji-faced mob miners with 😤 angry faces guarding the minerals. Dark moody background."
+    },
+    {
+      "id": "scene_11",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_11.png",
+      "asset_type": "gemini",
+      "text": "実は中国のレアアース規制、発表はしたけど{red:実施を1年間棚上げ}したの。",
+      "start": 47.526,
+      "end": 51.665,
+      "description": "エイミー先生が棚上げの裏事情を暴露",
+      "sentence_indices": [
+        7
+      ],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: Amy-sensei (silver hair, blue eyes, red outfit) with a sly smile, revealing a secret. On the right, a mob character with 🇨🇳 Chinese flag face in a suit, sweating nervously (sweat drops), holding a document labeled with a clock/hourglass symbol (representing the 1-year delay). The document has a red PAUSE stamp feel. 2 emoji-faced mob advisors with 😰 worried faces whispering behind the flag-face character. Tense atmosphere."
+    },
+    {
+      "id": "scene_12",
+      "asset": "samples/中国が隠した日本依存の闇/assets/panels/rareearth_vs_photoresist_v2.jpg",
+      "asset_type": "pillow",
+      "reuse": true,
+      "text": "本気で止めたら、{red:日本のフォトレジストも止まる}。お互いに{red:首を絞め合う構造}なのよ。",
+      "start": 51.815,
+      "end": 56.082,
+      "description": "レアアース vs フォトレジストの相互依存データパネル",
+      "sentence_indices": [
+        7
+      ],
+      "ken_burns": "zoom_in_center"
+    },
+    {
+      "id": "scene_13",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_13.png",
+      "asset_type": "gemini",
+      "text": "{red:チキンレース}みたいな状態ってことですか...。",
+      "start": 56.382,
+      "end": 58.355,
+      "description": "少年がチキンレースに例える",
+      "sentence_indices": [
+        8
+      ],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A dramatic chicken race visualization. The boy (teal hair, round glasses, white dinosaur hoodie) in the center looking nervous with sweat drops. On the left, a mob character with 🇯🇵 Japanese flag face driving a car toward the center. On the right, a mob character with 🇨🇳 Chinese flag face driving a car toward the center. The two cars are heading toward each other on a collision course. Dramatic speed lines and tension. Dark dramatic background."
+    },
+    {
+      "id": "scene_14",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_14_test.png",
+      "asset_type": "gemini",
+      "reuse": true,
+      "text": "しかも日本は{red:南鳥島沖}でレアアースの{red:海底採掘}を始めたわ。",
+      "start": 58.655,
+      "end": 62.303,
+      "description": "南鳥島沖の海底採掘シーン",
+      "sentence_indices": [
+        9
+      ],
+      "ken_burns": "pan_left"
+    },
+    {
+      "id": "scene_15",
+      "asset": "samples/中国が隠した日本依存の闇/assets/scenes/scene_15.png",
+      "asset_type": "gemini",
+      "text": "成功すれば{red:中国カードの威力は大幅に落ちる}。静かに、でも着実に手を打ってるの。",
+      "start": 62.453,
+      "end": 67.254,
+      "description": "エイミー先生がまとめ — 日本の静かな勝利",
+      "sentence_indices": [
+        9
+      ],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A triumphant closing scene. Amy-sensei (silver hair, blue eyes, red outfit) standing tall and confident in the center with a proud smile. The boy (teal hair, round glasses, white dinosaur hoodie) next to her looking inspired and relieved. Behind them, a bright sunrise over the ocean (Minami-Torishima), with a Japanese flag waving. On the left side, a small defeated mob character with 🇨🇳 Chinese flag face looking down. 3 emoji-faced mob citizens with 😊 happy faces and 💪 strong poses on the right. Hopeful, bright atmosphere."
+    }
+  ]
+}

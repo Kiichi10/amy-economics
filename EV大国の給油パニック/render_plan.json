@@ -1,0 +1,811 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "duration_sec": 82.29,
+  "layout": {
+    "type": "combined",
+    "top_bar": {
+      "height": 656,
+      "font_size": 72
+    },
+    "content": {
+      "y": 656,
+      "width": 1080,
+      "height": 608
+    },
+    "subtitle": {
+      "y": 1294,
+      "font_size": 84,
+      "outline_width": 10,
+      "height": 360
+    },
+    "effects": {}
+  },
+  "bgm": {
+    "file": "assets/bgm/bgm_dramatic_march.mp3",
+    "volume": 0.08,
+    "loop": true
+  },
+  "theme_title": "{red:EV大国}の給油パニック",
+  "concentration_scenes": [
+    "scene_07"
+  ],
+  "timeline": [
+    {
+      "layer": "info_panel",
+      "time_start": 0,
+      "time_end": 5.584,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_01.mp4",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 0,
+      "time_end": 5.284,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.0,
+      "time_end": 0.4016,
+      "params": {
+        "text": "えっ、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.4016,
+      "time_end": 2.677333,
+      "params": {
+        "text": "中国ってEV大国じゃなかったんすか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 2.777333,
+      "time_end": 4.144606,
+      "params": {
+        "text": "なんでガソリンスタンドに"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.144606,
+      "time_end": 5.284,
+      "params": {
+        "text": "大行列できてるんすか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 5.584,
+      "time_end": 15.026,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_02.mp4",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 5.584,
+      "time_end": 6.517333,
+      "params": {
+        "text": "3月9日の夜、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 6.517333,
+      "time_end": 8.250666,
+      "params": {
+        "text": "中国全土でガソリンが1リッ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 8.250666,
+      "time_end": 10.117333,
+      "params": {
+        "text": "トル0.55元値上げされたの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.117333,
+      "time_end": 10.117333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.117333,
+      "time_end": 10.117333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.117333,
+      "time_end": 10.117333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.117333,
+      "time_end": 10.117333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.117333,
+      "time_end": 10.117333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.267333,
+      "time_end": 11.888666,
+      "params": {
+        "text": "北京、上海、深圳、成都、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 11.888666,
+      "time_end": 13.51,
+      "params": {
+        "text": "あらゆる都市のスタンドに"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 13.51,
+      "time_end": 14.726,
+      "params": {
+        "text": "長蛇の列ができたわ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 15.026,
+      "time_end": 20.311,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_03.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 15.026,
+      "time_end": 16.565413,
+      "params": {
+        "text": "たった0.55元って、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.565413,
+      "time_end": 18.524667,
+      "params": {
+        "text": "日本円で11円くらいっすよね"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 18.624667,
+      "time_end": 20.011333999999998,
+      "params": {
+        "text": "それで深夜に並ぶんすか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 20.311,
+      "time_end": 30.97,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/panels/income_comparison.png",
+        "ken_burns": false,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 20.311,
+      "time_end": 30.67,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 20.311333,
+      "time_end": 22.611333,
+      "params": {
+        "text": "中国の平均月収は約6000元、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 22.611333,
+      "time_end": 23.991333,
+      "params": {
+        "text": "日本円で12万円よ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 24.141333,
+      "time_end": 26.230293,
+      "params": {
+        "text": "日本の感覚だと1リットル30円の"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 26.230293,
+      "time_end": 27.405333,
+      "params": {
+        "text": "値上げに相当するわ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 27.555333,
+      "time_end": 29.711641,
+      "params": {
+        "text": "50リットル入れたら1500円の差、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 29.711641,
+      "time_end": 30.67,
+      "params": {
+        "text": "庶民には大きいの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 30.97,
+      "time_end": 33.798,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_05.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 30.97,
+      "time_end": 32.234,
+      "params": {
+        "text": "でもEV大国なんだか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 32.234,
+      "time_end": 33.498,
+      "params": {
+        "text": "ら関係なくないっすか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.498,
+      "time_end": 33.498,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.498,
+      "time_end": 33.498,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.498,
+      "time_end": 33.498,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.498,
+      "time_end": 33.498,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.498,
+      "time_end": 33.498,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.498,
+      "time_end": 33.498,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 33.798,
+      "time_end": 43.603,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/panels/ev_ratio.png",
+        "ken_burns": false,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.798,
+      "time_end": 35.035333,
+      "params": {
+        "text": "ここが最大の矛盾よ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 35.185333,
+      "time_end": 37.811398,
+      "params": {
+        "text": "中国の自動車保有台数3.4億台の"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.811398,
+      "time_end": 38.303785,
+      "params": {
+        "text": "うち、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 38.303785,
+      "time_end": 40.273333,
+      "params": {
+        "text": "純粋なEVはまだ約15%"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 40.423333,
+      "time_end": 42.20619,
+      "params": {
+        "text": "残りの85%はガソリン車か"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 42.20619,
+      "time_end": 43.303333,
+      "params": {
+        "text": "ハイブリッドなの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 43.603,
+      "time_end": 46.905,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_07.png",
+        "ken_burns": true,
+        "kb_intensity": 3.5,
+        "effects": {
+          "concentration_lines": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 43.603333,
+      "time_end": 44.179333,
+      "params": {
+        "text": "マジっすか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 44.279333,
+      "time_end": 45.581519,
+      "params": {
+        "text": "メディアはEVだらけみたいに"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 45.581519,
+      "time_end": 46.604666,
+      "params": {
+        "text": "言ってたじゃないっすか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 46.904667,
+      "time_end": 48.84993,
+      "params": {
+        "text": "新車販売のEV比率が50%を"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 46.905,
+      "time_end": 54.715,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_08.png",
+        "ken_burns": true,
+        "kb_intensity": 2.5,
+        "kb_direction": "zoom_out",
+        "effects": {
+          "rgb_shift": true,
+          "rgb_intensity": 3
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.84993,
+      "time_end": 49.822562,
+      "params": {
+        "text": "超えただけで、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 49.822562,
+      "time_end": 52.184667,
+      "params": {
+        "text": "走ってる車の大半はまだガソリン車よ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 52.334667,
+      "time_end": 54.414667,
+      "params": {
+        "text": "しかも本当に怖いのは値上げの原因なの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 54.714667,
+      "time_end": 55.781334,
+      "params": {
+        "text": "原因ってなんすか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 54.715,
+      "time_end": 64.798,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_09.png",
+        "ken_burns": true,
+        "kb_intensity": 3.5,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 8,
+          "rgb_shift": true,
+          "rgb_intensity": 3
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 56.081333,
+      "time_end": 58.050095,
+      "params": {
+        "text": "中国の原油輸入の約3割はイランと"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 58.050095,
+      "time_end": 59.526666,
+      "params": {
+        "text": "ベネズエラに依存してるわ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 59.676666,
+      "time_end": 59.93042,
+      "params": {
+        "text": "今、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 59.93042,
+      "time_end": 61.326069,
+      "params": {
+        "text": "トランプ政権がイランへ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 61.326069,
+      "time_end": 62.467964,
+      "params": {
+        "text": "の制裁を強化して、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 62.467964,
+      "time_end": 64.497999,
+      "params": {
+        "text": "ホルムズ海峡の緊張が高まってるの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 64.798,
+      "time_end": 67.594,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_10.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 64.798,
+      "time_end": 66.046,
+      "params": {
+        "text": "つまりエネルギーの急所を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 66.046,
+      "time_end": 66.982,
+      "params": {
+        "text": "握られてるってこと"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 66.982,
+      "time_end": 67.294,
+      "params": {
+        "text": "っすか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 67.594,
+      "time_end": 75.895,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_11.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 67.594,
+      "time_end": 68.255333,
+      "params": {
+        "text": "そういうこと",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 68.405333,
+      "time_end": 69.809333,
+      "params": {
+        "text": "EV大国を名乗りながら、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 69.809333,
+      "time_end": 70.979333,
+      "params": {
+        "text": "エネルギー安全保障は"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 70.979333,
+      "time_end": 72.149333,
+      "params": {
+        "text": "むしろ脆くなってるの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 72.149333,
+      "time_end": 72.149333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 72.149333,
+      "time_end": 72.149333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 72.149333,
+      "time_end": 72.149333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 72.149333,
+      "time_end": 72.149333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 72.149333,
+      "time_end": 72.149333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 72.299333,
+      "time_end": 74.130444,
+      "params": {
+        "text": "石油が止まれば発電所も止まる、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 74.130444,
+      "time_end": 75.595333,
+      "params": {
+        "text": "EVも充電できなくなるわ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 75.895,
+      "time_end": 78.247,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_12.png",
+        "ken_burns": true,
+        "kb_intensity": 3.5,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 8,
+          "rgb_shift": true,
+          "rgb_intensity": 3
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 75.895333,
+      "time_end": 76.46066599999999,
+      "params": {
+        "text": "ヤバいっす",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 8
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 76.560666,
+      "time_end": 77.947333,
+      "params": {
+        "text": "EV関係ないじゃないっすか",
+        "effects": {
+          "shake": true,
+          "shake_intensity": 8
+        }
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 78.247,
+      "time_end": 82.29,
+      "params": {
+        "asset": "EV大国の給油パニック/assets/scenes/scene_13.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 78.247333,
+      "time_end": 79.482592,
+      "params": {
+        "text": "エネルギー問題の本質を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 79.482592,
+      "time_end": 80.380963,
+      "params": {
+        "text": "知りたいかたは、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 80.380963,
+      "time_end": 82.29,
+      "params": {
+        "text": "チャンネル登録して続きを待ちなさい"
+      }
+    }
+  ]
+}

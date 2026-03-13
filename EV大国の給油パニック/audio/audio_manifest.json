@@ -1,0 +1,322 @@
+{
+  "segments": [
+    {
+      "index": 0,
+      "file": "segment_001_shonen.wav",
+      "subtitle_file": "segment_001_shonen_subtitle.txt",
+      "duration": 5.284,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "えっ、中国ってEV大国じゃなかったんすか？なんでガソリンスタンドに大行列できてるんすか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "えっ、中国ってEV大国じゃなかったんすか？",
+          "duration": 2.677333,
+          "offset": 0.0
+        },
+        {
+          "text": "なんでガソリンスタンドに大行列できてるんすか？",
+          "duration": 2.506667,
+          "offset": 2.777333
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "file": "segment_002_amy_sensei.wav",
+      "subtitle_file": "segment_002_amy_sensei_subtitle.txt",
+      "duration": 9.142,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "3月9日の夜、中国全土でガソリンが1リットル0.55元値上げされたの。北京、上海、深圳、成都、あらゆる都市のスタンドに長蛇の列ができたわ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "3月9日の夜、中国全土でガソリンが1リットル0.55元値上げされたの。",
+          "duration": 4.533333,
+          "offset": 0.0
+        },
+        {
+          "text": "北京、上海、深圳、成都、あらゆる都市のスタンドに長蛇の列ができたわ。",
+          "duration": 4.458667,
+          "offset": 4.683333
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "segment_003_shonen.wav",
+      "subtitle_file": "segment_003_shonen_subtitle.txt",
+      "duration": 4.985333333333333,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "たった0.55元って、日本円で11円くらいっすよね？それで深夜に並ぶんすか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "たった0.55元って、日本円で11円くらいっすよね？",
+          "duration": 3.498667,
+          "offset": 0.0
+        },
+        {
+          "text": "それで深夜に並ぶんすか？",
+          "duration": 1.386667,
+          "offset": 3.598667
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "segment_004_amy_sensei.wav",
+      "subtitle_file": "segment_004_amy_sensei_subtitle.txt",
+      "duration": 10.358666666666666,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "中国の平均月収は約6000元、日本円で12万円よ。日本の感覚だと1リットル30円の値上げに相当するわ。50リットル入れたら1500円の差、庶民には大きいの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "中国の平均月収は約6000元、日本円で12万円よ。",
+          "duration": 3.68,
+          "offset": 0.0
+        },
+        {
+          "text": "日本の感覚だと1リットル30円の値上げに相当するわ。",
+          "duration": 3.264,
+          "offset": 3.83
+        },
+        {
+          "text": "50リットル入れたら1500円の差、庶民には大きいの。",
+          "duration": 3.114667,
+          "offset": 7.244
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "segment_005_shonen.wav",
+      "subtitle_file": "segment_005_shonen_subtitle.txt",
+      "duration": 2.528,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "でもEV大国なんだから関係なくないっすか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "でもEV大国なんだから関係なくないっすか？",
+          "duration": 2.528,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "segment_006_amy_sensei.wav",
+      "subtitle_file": "segment_006_amy_sensei_subtitle.txt",
+      "duration": 9.505333333333333,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "ここが最大の矛盾よ。中国の自動車保有台数3.4億台のうち、純粋なEVはまだ約15%。残りの85%はガソリン車かハイブリッドなの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "ここが最大の矛盾よ。",
+          "duration": 1.237333,
+          "offset": 0.0
+        },
+        {
+          "text": "中国の自動車保有台数3.4億台のうち、純粋なEVはまだ約15%。",
+          "duration": 5.088,
+          "offset": 1.387333
+        },
+        {
+          "text": "残りの85%はガソリン車かハイブリッドなの。",
+          "duration": 2.88,
+          "offset": 6.625333
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "segment_007_shonen.wav",
+      "subtitle_file": "segment_007_shonen_subtitle.txt",
+      "duration": 3.001333333333333,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "マジっすか！メディアはEVだらけみたいに言ってたじゃないっすか！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "マジっすか！",
+          "duration": 0.576,
+          "offset": 0.0
+        },
+        {
+          "text": "メディアはEVだらけみたいに言ってたじゃないっすか！",
+          "duration": 2.325333,
+          "offset": 0.676
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "segment_008_amy_sensei.wav",
+      "subtitle_file": "segment_008_amy_sensei_subtitle.txt",
+      "duration": 7.51,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "新車販売のEV比率が50%を超えただけで、走ってる車の大半はまだガソリン車よ。しかも本当に怖いのは値上げの原因なの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "新車販売のEV比率が50%を超えただけで、走ってる車の大半はまだガソリン車よ。",
+          "duration": 5.28,
+          "offset": 0.0
+        },
+        {
+          "text": "しかも本当に怖いのは値上げの原因なの。",
+          "duration": 2.08,
+          "offset": 5.43
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "segment_009_shonen.wav",
+      "subtitle_file": "segment_009_shonen_subtitle.txt",
+      "duration": 1.0666666666666667,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "原因ってなんすか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "原因ってなんすか？",
+          "duration": 1.066667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "segment_010_amy_sensei.wav",
+      "subtitle_file": "segment_010_amy_sensei_subtitle.txt",
+      "duration": 8.416666666666666,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "中国の原油輸入の約3割はイランとベネズエラに依存してるわ。今、トランプ政権がイランへの制裁を強化して、ホルムズ海峡の緊張が高まってるの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "中国の原油輸入の約3割はイランとベネズエラに依存してるわ。",
+          "duration": 3.445333,
+          "offset": 0.0
+        },
+        {
+          "text": "今、トランプ政権がイランへの制裁を強化して、ホルムズ海峡の緊張が高まってるの。",
+          "duration": 4.821333,
+          "offset": 3.595333
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "segment_011_shonen.wav",
+      "subtitle_file": "segment_011_shonen_subtitle.txt",
+      "duration": 2.496,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "つまりエネルギーの急所を握られてるってことっすか！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "つまりエネルギーの急所を握られてるってことっすか！",
+          "duration": 2.496,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "segment_012_amy_sensei.wav",
+      "subtitle_file": "segment_012_amy_sensei_subtitle.txt",
+      "duration": 8.001333333333333,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "そういうこと。EV大国を名乗りながら、エネルギー安全保障はむしろ脆くなってるの。石油が止まれば発電所も止まる、EVも充電できなくなるわ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "そういうこと。",
+          "duration": 0.661333,
+          "offset": 0.0
+        },
+        {
+          "text": "EV大国を名乗りながら、エネルギー安全保障はむしろ脆くなってるの。",
+          "duration": 3.744,
+          "offset": 0.811333
+        },
+        {
+          "text": "石油が止まれば発電所も止まる、EVも充電できなくなるわ。",
+          "duration": 3.296,
+          "offset": 4.705333
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "segment_013_shonen.wav",
+      "subtitle_file": "segment_013_shonen_subtitle.txt",
+      "duration": 2.052,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "ヤバいっす！EV関係ないじゃないっすか！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "ヤバいっす！",
+          "duration": 0.565333,
+          "offset": 0.0
+        },
+        {
+          "text": "EV関係ないじゃないっすか！",
+          "duration": 1.386667,
+          "offset": 0.665333
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "file": "segment_014_amy_sensei.wav",
+      "subtitle_file": "segment_014_amy_sensei_subtitle.txt",
+      "duration": 4.042666666666666,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "エネルギー問題の本質を知りたいかたは、チャンネル登録して続きを待ちなさい。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "エネルギー問題の本質を知りたいかたは、チャンネル登録して続きを待ちなさい。",
+          "duration": 4.042667,
+          "offset": 0.0
+        }
+      ]
+    }
+  ],
+  "total_duration": 78.39
+}

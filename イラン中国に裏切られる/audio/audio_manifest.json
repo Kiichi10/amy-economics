@@ -1,0 +1,276 @@
+{
+  "segments": [
+    {
+      "index": 0,
+      "file": "segment_001_shonen.wav",
+      "subtitle_file": "segment_001_shonen_subtitle.txt",
+      "duration": 2.7626666666666666,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "先生、中国がイランを裏切ったってマジっすか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "先生、中国がイランを裏切ったってマジっすか？",
+          "duration": 2.762667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "file": "segment_002_amy_sensei.wav",
+      "subtitle_file": "segment_002_amy_sensei_subtitle.txt",
+      "duration": 7.040666666666667,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "3月12日、中国が公式に声明を出したの。イランの湾岸諸国への攻撃を強く非難する、直ちに停戦しろってね。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "3月12日、中国が公式に声明を出したの。",
+          "duration": 3.029333,
+          "offset": 0.0
+        },
+        {
+          "text": "イランの湾岸諸国への攻撃を強く非難する、直ちに停戦しろってね。",
+          "duration": 3.861333,
+          "offset": 3.179333
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "segment_003_shonen.wav",
+      "subtitle_file": "segment_003_shonen_subtitle.txt",
+      "duration": 2.7306666666666666,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "えっ、中国とイランって仲良かったんじゃないっすか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "えっ、中国とイランって仲良かったんじゃないっすか？",
+          "duration": 2.730667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "segment_004_amy_sensei.wav",
+      "subtitle_file": "segment_004_amy_sensei_subtitle.txt",
+      "duration": 9.430666666666667,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "2021年に25年間の戦略的パートナーシップ協定を結んでるわ。総額4000億ドル、約60兆円の超大型契約よ。それを公の場で裏切ったの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "2021年に25年間の戦略的パートナーシップ協定を結んでるわ。",
+          "duration": 4.192,
+          "offset": 0.0
+        },
+        {
+          "text": "総額4000億ドル、約60兆円の超大型契約よ。",
+          "duration": 3.466667,
+          "offset": 4.342
+        },
+        {
+          "text": "それを公の場で裏切ったの。",
+          "duration": 1.472,
+          "offset": 7.958667
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "segment_005_shonen.wav",
+      "subtitle_file": "segment_005_shonen_subtitle.txt",
+      "duration": 2.6666666666666665,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "60兆円の同盟を裏切るって何があったんすか！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "60兆円の同盟を裏切るって何があったんすか！",
+          "duration": 2.666667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "segment_006_amy_sensei.wav",
+      "subtitle_file": "segment_006_amy_sensei_subtitle.txt",
+      "duration": 9.324,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "ここが中国の二枚舌よ。おもてでは非難しておきながら、裏ではワシントンポストが暴露したわ。3月上旬に広東省からイランへ兵器原料を積んだ船が出港してたの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "ここが中国の二枚舌よ。",
+          "duration": 1.376,
+          "offset": 0.0
+        },
+        {
+          "text": "おもてでは非難しておきながら、裏ではワシントンポストが暴露したわ。",
+          "duration": 3.626667,
+          "offset": 1.526
+        },
+        {
+          "text": "3月上旬に広東省からイランへ兵器原料を積んだ船が出港してたの。",
+          "duration": 4.021333,
+          "offset": 5.302667
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "segment_007_shonen.wav",
+      "subtitle_file": "segment_007_shonen_subtitle.txt",
+      "duration": 2.2186666666666666,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "兵器を送りながら非難ってヤバくないっすか！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "兵器を送りながら非難ってヤバくないっすか！",
+          "duration": 2.218667,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "segment_008_amy_sensei.wav",
+      "subtitle_file": "segment_008_amy_sensei_subtitle.txt",
+      "duration": 8.375333333333334,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "でも中国には切実な事情があるの。中国の石油備蓄はたった100日分。日本の250日と比べて半分以下よ。しかも原油の3割をイランに頼ってる。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "でも中国には切実な事情があるの。",
+          "duration": 1.845333,
+          "offset": 0.0
+        },
+        {
+          "text": "中国の石油備蓄はたった100日分。",
+          "duration": 2.005333,
+          "offset": 1.995333
+        },
+        {
+          "text": "日本の250日と比べて半分以下よ。",
+          "duration": 2.176,
+          "offset": 4.150666
+        },
+        {
+          "text": "しかも原油の3割をイランに頼ってる。",
+          "duration": 1.898667,
+          "offset": 6.476666
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "segment_009_shonen.wav",
+      "subtitle_file": "segment_009_shonen_subtitle.txt",
+      "duration": 2.048,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "じゃあイランを怒らせたらヤバいじゃないっすか！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "じゃあイランを怒らせたらヤバいじゃないっすか！",
+          "duration": 2.048,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "segment_010_amy_sensei.wav",
+      "subtitle_file": "segment_010_amy_sensei_subtitle.txt",
+      "duration": 10.946,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "だからこそよ。ホルムズ海峡が封鎖されたら中国経済は即死。イランを支持したいけど、海峡を危険にする暴走は止めたい。石油のために同盟国すら裏切る、これが国際政治の現実よ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "だからこそよ。",
+          "duration": 0.725333,
+          "offset": 0.0
+        },
+        {
+          "text": "ホルムズ海峡が封鎖されたら中国経済は即死。",
+          "duration": 2.890667,
+          "offset": 0.875333
+        },
+        {
+          "text": "イランを支持したいけど、海峡を危険にする暴走は止めたい。",
+          "duration": 3.210667,
+          "offset": 3.916
+        },
+        {
+          "text": "石油のために同盟国すら裏切る、これが国際政治の現実よ。",
+          "duration": 3.669333,
+          "offset": 7.276667
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "segment_011_shonen.wav",
+      "subtitle_file": "segment_011_shonen_subtitle.txt",
+      "duration": 1.024,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "大国って怖いっす！",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "大国って怖いっす！",
+          "duration": 1.024,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "segment_012_amy_sensei.wav",
+      "subtitle_file": "segment_012_amy_sensei_subtitle.txt",
+      "duration": 3.5733333333333333,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "こういう裏側を知りたいかたは、チャンネル登録して続きを待ちなさい。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "こういう裏側を知りたいかたは、チャンネル登録して続きを待ちなさい。",
+          "duration": 3.573333,
+          "offset": 0.0
+        }
+      ]
+    }
+  ],
+  "total_duration": 62.14066666666667
+}

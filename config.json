@@ -1,0 +1,98 @@
+{
+  "project_name": "エイミー先生の経済学",
+  "channel_name": "エイミー先生の経済学",
+  "characters": {
+    "amy_sensei": {
+      "display_name": "エイミー先生",
+      "role": "teacher",
+      "aliases": ["エイミー先生", "Amy", "amy", "先生", "エイミー"],
+      "voicevox": {
+        "speaker_id": 20,
+        "name": "もち子さん（ノーマル）",
+        "params": {
+          "speedScale": 1.3,
+          "pitchScale": 0.0,
+          "intonationScale": 1.2,
+          "volumeScale": 1.0
+        }
+      },
+      "emoji": "👩‍🏫",
+      "color": "#FF6B9D",
+      "assets": {
+        "reference": "/Users/kiichi/Documents/VS Code/エイミー先生の時事ニュース/assets/image_library/characters/amy_sensei/reference.png"
+      }
+    },
+    "shonen": {
+      "display_name": "少年",
+      "role": "student",
+      "aliases": ["少年", "生徒", "boy", "Shonen"],
+      "voicevox": {
+        "speaker_id": 12,
+        "name": "白上虎太郎（びくびく）",
+        "params": {
+          "speedScale": 1.3,
+          "pitchScale": 0.0,
+          "intonationScale": 1.3,
+          "volumeScale": 1.0
+        }
+      },
+      "emoji": "👦",
+      "color": "#4ECDC4",
+      "assets": {
+        "reference": "/Users/kiichi/Documents/VS Code/日本はこれで委員会/assets/characters/shonen.jpg"
+      }
+    }
+  },
+  "voicevox": {
+    "base_url": "http://localhost:50021",
+    "format": {
+      "sample_rate": 48000,
+      "channels": 1
+    }
+  },
+  "audio": {
+    "segment_gap": 0.3,
+    "start_offset": 0.5
+  },
+  "video": {
+    "shorts_width": 1080,
+    "shorts_height": 1920,
+    "main_width": 1080,
+    "main_height": 608,
+    "top_bar_height": 270,
+    "bottom_bar_height": 270,
+    "fps": 30,
+    "target_duration": 60
+  },
+  "style": {
+    "bg_color": "#1A1A2E",
+    "top_bar_color": "#16213E",
+    "bottom_bar_color": "#0F3460",
+    "accent_color": "#E94560",
+    "text_color": "#FFFFFF",
+    "subtitle_color": "#FFFFFF",
+    "channel_name_color": "#FFD93D"
+  },
+  "se": {
+    "enabled": true,
+    "volume": 0.3,
+    "assets_dir": "assets/se",
+    "emotion_map": {
+      "excited": "shock",
+      "happy": "correct",
+      "sad": "sad",
+      "whisper": "thinking",
+      "angry": "驚く",
+      "question": "question",
+      "idea": "idea",
+      "decision": "decision"
+    }
+  },
+  "bgm": {
+    "enabled": true,
+    "file": "assets/bgm/bgm_main.mp3",
+    "volume": 0.08,
+    "fade_in": 2.0,
+    "fade_out": 3.0
+  }
+}

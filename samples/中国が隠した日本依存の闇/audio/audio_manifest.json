@@ -1,0 +1,235 @@
+{
+  "segments": [
+    {
+      "index": 0,
+      "file": "segment_001_shonen.wav",
+      "subtitle_file": "segment_001_shonen_subtitle.txt",
+      "duration": 5.248,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "先生、中国が日本に制裁を仕掛けたってニュースを見たんですけど、日本は大丈夫なんですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "先生、中国が日本に制裁を仕掛けたってニュースを見たんですけど、日本は大丈夫なんですか？",
+          "duration": 5.248,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "file": "segment_002_amy_sensei.wav",
+      "subtitle_file": "segment_002_amy_sensei_subtitle.txt",
+      "duration": 7.424666666666667,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "2026年1月、中国は軍民両用品の対日輸出禁止を発表したわ。でもね、面白いのはその裏で起きていることなの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "2026年1月、中国は軍民両用品の対日輸出禁止を発表したわ。",
+          "duration": 4.682667,
+          "offset": 0.0
+        },
+        {
+          "text": "でもね、面白いのはその裏で起きていることなの。",
+          "duration": 2.592,
+          "offset": 4.832667
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "segment_003_shonen.wav",
+      "subtitle_file": "segment_003_shonen_subtitle.txt",
+      "duration": 1.408,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "裏で何が起きてるんですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "裏で何が起きてるんですか？",
+          "duration": 1.408,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "segment_004_amy_sensei.wav",
+      "subtitle_file": "segment_004_amy_sensei_subtitle.txt",
+      "duration": 13.462666666666667,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "日本はフォトレジストという半導体に必須の素材で、高性能品の95パーセントを握ってるの。2025年末、日本企業は静かに中国からフォトレジスト事業を引き揚げたの。信越化学の対中輸出は一気に42パーセント減ったわ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "日本はフォトレジストという半導体に必須の素材で、高性能品の95パーセントを握ってるの。",
+          "duration": 5.333333,
+          "offset": 0.0
+        },
+        {
+          "text": "2025年末、日本企業は静かに中国からフォトレジスト事業を引き揚げたの。",
+          "duration": 4.48,
+          "offset": 5.483333
+        },
+        {
+          "text": "信越化学の対中輸出は一気に42パーセント減ったわ。",
+          "duration": 3.349333,
+          "offset": 10.113333
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "segment_005_shonen.wav",
+      "subtitle_file": "segment_005_shonen_subtitle.txt",
+      "duration": 2.6773333333333333,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "えっ、日本側から先に引いたってことですか？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "えっ、日本側から先に引いたってことですか？",
+          "duration": 2.677333,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "segment_006_amy_sensei.wav",
+      "subtitle_file": "segment_006_amy_sensei_subtitle.txt",
+      "duration": 10.966666666666667,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "そう。中国は2026年までにフォトレジストの国産化率40パーセントを目指してるけど、今はまだ10パーセント程度。つまり日本が抜けたら、中国の半導体工場は動かせなくなるの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "そう。",
+          "duration": 0.352,
+          "offset": 0.0
+        },
+        {
+          "text": "中国は2026年までにフォトレジストの国産化率40パーセントを目指してるけど、今はまだ10パーセント程度。",
+          "duration": 6.709333,
+          "offset": 0.502
+        },
+        {
+          "text": "つまり日本が抜けたら、中国の半導体工場は動かせなくなるの。",
+          "duration": 3.605333,
+          "offset": 7.361333
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "segment_007_shonen.wav",
+      "subtitle_file": "segment_007_shonen_subtitle.txt",
+      "duration": 4.238666666666667,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "じゃあ中国のレアアース制裁はどうなんですか？あっちも止められたら困りますよね？",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "じゃあ中国のレアアース制裁はどうなんですか？",
+          "duration": 2.453333,
+          "offset": 0.0
+        },
+        {
+          "text": "あっちも止められたら困りますよね？",
+          "duration": 1.685333,
+          "offset": 2.553333
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "segment_008_amy_sensei.wav",
+      "subtitle_file": "segment_008_amy_sensei_subtitle.txt",
+      "duration": 8.556,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "実は中国のレアアース規制、発表はしたけど実施を1年間棚上げしたの。本気で止めたら、日本のフォトレジストも止まる。お互いに首を絞め合う構造なのよ。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "実は中国のレアアース規制、発表はしたけど実施を1年間棚上げしたの。",
+          "duration": 4.138667,
+          "offset": 0.0
+        },
+        {
+          "text": "本気で止めたら、日本のフォトレジストも止まる。",
+          "duration": 2.357333,
+          "offset": 4.288667
+        },
+        {
+          "text": "お互いに首を絞め合う構造なのよ。",
+          "duration": 1.76,
+          "offset": 6.796
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "segment_009_shonen.wav",
+      "subtitle_file": "segment_009_shonen_subtitle.txt",
+      "duration": 1.9733333333333334,
+      "speaker": "shonen",
+      "speaker_display": "少年",
+      "text": "チキンレースみたいな状態ってことですか...。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 12,
+      "sentence_timings": [
+        {
+          "text": "チキンレースみたいな状態ってことですか...。",
+          "duration": 1.973333,
+          "offset": 0.0
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "segment_010_amy_sensei.wav",
+      "subtitle_file": "segment_010_amy_sensei_subtitle.txt",
+      "duration": 8.598666666666666,
+      "speaker": "amy_sensei",
+      "speaker_display": "エイミー先生",
+      "text": "しかも日本は南鳥島沖でレアアースの海底採掘を始めたわ。成功すれば中国カードの威力は大幅に落ちる。静かに、でも着実に手を打ってるの。",
+      "emotion": "normal",
+      "voicevox_speaker_id": 20,
+      "sentence_timings": [
+        {
+          "text": "しかも日本は南鳥島沖でレアアースの海底採掘を始めたわ。",
+          "duration": 3.648,
+          "offset": 0.0
+        },
+        {
+          "text": "成功すれば中国カードの威力は大幅に落ちる。",
+          "duration": 2.677333,
+          "offset": 3.798
+        },
+        {
+          "text": "静かに、でも着実に手を打ってるの。",
+          "duration": 1.973333,
+          "offset": 6.625333
+        }
+      ]
+    }
+  ],
+  "total_duration": 64.554
+}

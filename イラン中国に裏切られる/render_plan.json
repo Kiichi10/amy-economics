@@ -1,0 +1,681 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "duration_sec": 65.44,
+  "layout": {
+    "type": "combined",
+    "top_bar": {
+      "height": 656,
+      "font_size": 72
+    },
+    "content": {
+      "y": 656,
+      "width": 1080,
+      "height": 608
+    },
+    "subtitle": {
+      "y": 1294,
+      "font_size": 84,
+      "outline_width": 10,
+      "height": 360
+    },
+    "effects": {}
+  },
+  "bgm": {
+    "file": "assets/bgm/bgm_dramatic_march.mp3",
+    "volume": 0.08,
+    "loop": true
+  },
+  "theme_title": "{red:イラン}、中国に裏切られる",
+  "concentration_scenes": [],
+  "timeline": [
+    {
+      "layer": "info_panel",
+      "time_start": 0,
+      "time_end": 3.063,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_01.mp4",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 0,
+      "time_end": 2.763,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.0,
+      "time_end": 0.394667,
+      "params": {
+        "text": "先生、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.394667,
+      "time_end": 2.762667,
+      "params": {
+        "text": "中国がイランを裏切ったってマジっすか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 3.062667,
+      "time_end": 4.019298,
+      "params": {
+        "text": "3月12日、"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 3.063,
+      "time_end": 10.403,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_02.mp4",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.019298,
+      "time_end": 6.092,
+      "params": {
+        "text": "中国が公式に声明を出したの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 6.242,
+      "time_end": 7.915244,
+      "params": {
+        "text": "イランの湾岸諸国への攻撃を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 7.915244,
+      "time_end": 8.816222,
+      "params": {
+        "text": "強く非難する、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 8.816222,
+      "time_end": 10.103333,
+      "params": {
+        "text": "直ちに停戦しろってね"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 10.403,
+      "time_end": 13.434,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_03.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.403333,
+      "time_end": 10.744666,
+      "params": {
+        "text": "えっ、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 10.744666,
+      "time_end": 11.996222,
+      "params": {
+        "text": "中国とイランって仲良か"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 11.996222,
+      "time_end": 13.134,
+      "params": {
+        "text": "ったんじゃないっすか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 13.434,
+      "time_end": 23.165,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_04.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "rgb_shift": true,
+          "rgb_intensity": 3
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 13.434,
+      "time_end": 15.1108,
+      "params": {
+        "text": "2021年に25年間の戦"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 15.1108,
+      "time_end": 16.927333,
+      "params": {
+        "text": "略的パートナーシップ協定を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.927333,
+      "time_end": 16.927333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.927333,
+      "time_end": 16.927333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.927333,
+      "time_end": 16.927333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.927333,
+      "time_end": 16.927333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.927333,
+      "time_end": 16.927333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.927333,
+      "time_end": 17.626,
+      "params": {
+        "text": "結んでるわ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 17.776,
+      "time_end": 19.351758,
+      "params": {
+        "text": "総額4000億ドル、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 19.351758,
+      "time_end": 21.242667,
+      "params": {
+        "text": "約60兆円の超大型契約よ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 21.392667,
+      "time_end": 22.864667,
+      "params": {
+        "text": "それを公の場で裏切ったの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 23.164667,
+      "time_end": 25.069429,
+      "params": {
+        "text": "60兆円の同盟を裏切るって何が"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 23.165,
+      "time_end": 26.131,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_05.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 5
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 23.165,
+      "time_end": 25.831,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.069429,
+      "time_end": 25.831334,
+      "params": {
+        "text": "あったんすか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 26.131,
+      "time_end": 35.755,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_06.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 26.131333,
+      "time_end": 27.507333000000003,
+      "params": {
+        "text": "ここが中国の二枚舌よ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 27.657333,
+      "time_end": 29.357333,
+      "params": {
+        "text": "おもてでは非難しておきながら、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 29.357333,
+      "time_end": 31.284,
+      "params": {
+        "text": "裏ではワシントンポストが暴露したわ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 31.434,
+      "time_end": 33.310622,
+      "params": {
+        "text": "3月上旬に広東省からイランへ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.310622,
+      "time_end": 33.980844,
+      "params": {
+        "text": "兵器原料を"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.980844,
+      "time_end": 35.455333,
+      "params": {
+        "text": "積んだ船が出港してたの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 35.755,
+      "time_end": 38.274,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_07.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "shake": true,
+          "shake_intensity": 6
+        }
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 35.755,
+      "time_end": 37.974,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 35.755333,
+      "time_end": 36.864666,
+      "params": {
+        "text": "兵器を送りながら非難"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 36.864666,
+      "time_end": 37.974,
+      "params": {
+        "text": "ってヤバくないっすか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.974,
+      "time_end": 37.974,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.974,
+      "time_end": 37.974,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.974,
+      "time_end": 37.974,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.974,
+      "time_end": 37.974,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.974,
+      "time_end": 37.974,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 37.974,
+      "time_end": 37.974,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 38.274,
+      "time_end": 46.949,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/panels/oil_reserves.png",
+        "ken_burns": false,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 38.274,
+      "time_end": 40.119333,
+      "params": {
+        "text": "でも中国には切実な事情があるの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 40.269333,
+      "time_end": 42.274666,
+      "params": {
+        "text": "中国の石油備蓄はたった100日分"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 42.424666,
+      "time_end": 44.600666000000004,
+      "params": {
+        "text": "日本の250日と比べて半分以下よ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 44.750666,
+      "time_end": 46.649333000000006,
+      "params": {
+        "text": "しかも原油の3割をイランに頼ってる"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 46.949,
+      "time_end": 49.297,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_09.png",
+        "ken_burns": true,
+        "kb_intensity": 3.5,
+        "effects": {
+          "flash": true,
+          "shake": true,
+          "shake_intensity": 8,
+          "rgb_shift": true,
+          "rgb_intensity": 3
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 46.949333,
+      "time_end": 47.973333,
+      "params": {
+        "text": "じゃあイランを怒らせた"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 47.973333,
+      "time_end": 48.997333,
+      "params": {
+        "text": "らヤバいじゃないっすか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.997333,
+      "time_end": 48.997333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.997333,
+      "time_end": 48.997333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.997333,
+      "time_end": 48.997333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.997333,
+      "time_end": 48.997333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.997333,
+      "time_end": 48.997333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.997333,
+      "time_end": 48.997333,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 49.297,
+      "time_end": 60.543,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_10.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 49.297333,
+      "time_end": 50.022666,
+      "params": {
+        "text": "だからこそよ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 50.172666,
+      "time_end": 52.774266,
+      "params": {
+        "text": "ホルムズ海峡が封鎖されたら中国経済は"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 52.774266,
+      "time_end": 53.063333,
+      "params": {
+        "text": "即死"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 53.213333,
+      "time_end": 54.640296,
+      "params": {
+        "text": "イランを支持したいけど、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 54.640296,
+      "time_end": 56.424,
+      "params": {
+        "text": "海峡を危険にする暴走は止めたい"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 56.574,
+      "time_end": 58.690923,
+      "params": {
+        "text": "石油のために同盟国すら裏切る、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 58.690923,
+      "time_end": 60.243333,
+      "params": {
+        "text": "これが国際政治の現実よ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 60.543,
+      "time_end": 65.441,
+      "params": {
+        "asset": "イラン中国に裏切られる/assets/scenes/scene_11.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 60.543333,
+      "time_end": 61.567333,
+      "params": {
+        "text": "大国って怖いっす"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 61.867333,
+      "time_end": 63.542333,
+      "params": {
+        "text": "こういう裏側を知りたいかたは、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 63.542333,
+      "time_end": 65.440666,
+      "params": {
+        "text": "チャンネル登録して続きを待ちなさい"
+      }
+    }
+  ]
+}

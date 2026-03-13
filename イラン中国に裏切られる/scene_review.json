@@ -1,0 +1,137 @@
+{
+  "scene_01": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:24.067Z",
+    "effects": {
+      "bounce_in": true
+    },
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    },
+    "se": "surprise"
+  },
+  "scene_02": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:27.224Z",
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    }
+  },
+  "scene_03": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:34.283Z",
+    "effects": {
+      "flash": true,
+      "shake": true,
+      "shake_intensity": 5
+    },
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    }
+  },
+  "scene_04": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:43.179Z",
+    "effects": {
+      "flash": true,
+      "rgb_shift": true,
+      "rgb_intensity": 3
+    },
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    }
+  },
+  "scene_05": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:44.401Z",
+    "effects": {
+      "flash": true,
+      "shake": true,
+      "shake_intensity": 5
+    },
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    },
+    "se": "surprise"
+  },
+  "scene_06": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:46.404Z",
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    }
+  },
+  "scene_07": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:50.287Z",
+    "effects": {
+      "shake": true,
+      "shake_intensity": 6
+    },
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    },
+    "se": "surprise"
+  },
+  "scene_08": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:37:53.018Z",
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_direction": "pan_right",
+      "kb_intensity": 2
+    }
+  },
+  "scene_09": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:38:01.996Z",
+    "effects": {
+      "flash": true,
+      "shake": true,
+      "shake_intensity": 8,
+      "rgb_shift": true,
+      "rgb_intensity": 3
+    },
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3.5
+    }
+  },
+  "scene_10": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:38:03.726Z",
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    }
+  },
+  "scene_11": {
+    "status": "ok",
+    "comment": "",
+    "reviewed_at": "2026-03-13T07:38:06.378Z",
+    "effects": {
+      "bounce_in": true
+    },
+    "ken_burns": {
+      "ken_burns": true,
+      "kb_intensity": 3
+    }
+  }
+}

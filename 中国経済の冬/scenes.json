@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "topic": "中国経済の冬",
+    "theme_title": "{red:中国経済}の冬",
+    "mood": "dramatic",
+    "total_duration": 68.0,
+    "total_scenes": 15,
+    "style": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, emoji-faced mob characters",
+    "references": {
+      "ref": "assets/image_library/characters/references/reference.png"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "asset": "中国経済の冬/assets/scenes/scene_01.mp4",
+      "asset_type": "gemini",
+      "text": "先生、中国の{red:GDP成長率}って{red:5パーセント}もあるんですよね？景気いいんじゃないですか？",
+      "start": 0.0,
+      "end": 5.305,
+      "description": "少年がリビングでTVの中国GDPニュースを見て質問する冒頭シーン",
+      "sentence_indices": [
+        0
+      ],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A living room. A chibi boy (teal hair, round glasses, white dinosaur hoodie) sitting on a couch watching TV. The TV screen shows a Chinese GDP growth chart with '5.0%' in large green numbers and a China flag. The boy looks curious, tilting his head. Warm cozy living room lighting with blue TV glow."
+    },
+    {
+      "id": "scene_02",
+      "asset": "中国経済の冬/assets/scenes/scene_02.mp4",
+      "asset_type": "gemini",
+      "text": "それがね、景気が良くなったと答えた企業、たったの{red:1パーセント}なの。",
+      "start": 5.605,
+      "end": 12.209,
+      "description": "暗い会議室でモブ企業人たちが沈痛な表情（景気回答1%の実態）",
+      "sentence_indices": [
+        1,
+        2
+      ],
+      "ken_burns": "pan_left",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A dark, gloomy corporate boardroom. 6 emoji-faced mob characters in business suits sitting around a long table. 5 of them have 😰 worried/depressed faces, only 1 has a tiny 😊 smile. A whiteboard in the back shows '景気回復 1%' with a red downward arrow. The room has cold blue-gray lighting, creating a somber atmosphere. Papers and charts scattered on the table.",
+      "ref_image": "ref"
+    },
+    {
+      "id": "scene_03",
+      "asset": "中国経済の冬/assets/scenes/scene_03.png",
+      "asset_type": "gemini",
+      "text": "数字の裏を見てみましょう。かつて月額{red:50万円}だった家賃が、今は{red:1万円}。",
+      "start": 12.509,
+      "end": 17.043,
+      "description": "巨大なゴーストマンション群の外観、誰もいない街",
+      "sentence_indices": [
+        3
+      ],
+      "ken_burns": "pan_right",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A vast ghost city with rows of identical tall apartment buildings stretching to the horizon. The buildings look brand new but completely empty — no lights in any window. A 'FOR RENT' sign in the foreground shows '¥500,000→¥10,000' with a dramatic red slash. 2 emoji-faced mob characters with 😨 shocked faces walking through the empty street. Eerie, cold blue-gray atmosphere. Wind blowing dust.",
+      "ref_image": "ref"
+    },
+    {
+      "id": "scene_04",
+      "asset": "中国経済の冬/assets/scenes/scene_04.png",
+      "asset_type": "gemini",
+      "text": "入居率たったの{red:5パーセント}。マンションは建ったけど、{red:誰も住んでいない}の。",
+      "start": 17.193,
+      "end": 22.422,
+      "description": "マンション内部の廃墟感、空っぽの部屋が並ぶ廊下",
+      "sentence_indices": [
+        3,
+        4
+      ],
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: Interior of an abandoned luxury apartment hallway. Long corridor with doors on both sides, all closed and dark. Cobwebs and dust visible. A single emoji-faced mob character with 😰 sad face (a lonely security guard) standing in the hallway with a flashlight. A sign on the wall reads '入居率 5%'. The hallway stretches into darkness. Cold, eerie green-gray lighting.",
+      "ref_image": "ref"
+    },
+    {
+      "id": "scene_05",
+      "asset": "中国経済の冬/assets/scenes/scene_05.png",
+      "asset_type": "gemini",
+      "text": "不動産の販売額は前年比{red:17パーセント}の大暴落。{red:70都市中70都市}すべてで住宅価格が下がったわ。",
+      "start": 22.722,
+      "end": 29.197,
+      "description": "エイミー先生が暴落チャートの前で解説",
+      "sentence_indices": [
+        5
+      ],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: Amy-sensei (silver/white long hair, blue eyes, red/maroon blazer) standing confidently on the left, pointing at a large screen behind her. The screen shows a dramatic red downward chart labeled '-17%' and a map of China with 70 red dots (all cities declining). Her expression is serious but composed. 2 emoji-faced mob analysts with 😱 shocked faces on the right side. Dark background with red accent lighting."
+    },
+    {
+      "id": "scene_06",
+      "asset": "中国経済の冬/assets/panels/real_estate_crash.jpg",
+      "asset_type": "pillow",
+      "text": "不動産の販売額は前年比{red:17パーセント}の大暴落。{red:70都市中70都市}すべてで住宅価格が下がったわ。",
+      "start": 22.722,
+      "end": 30.312,
+      "description": "不動産販売額-17%＋70都市全下落のデータパネル",
+      "sentence_indices": [
+        5,
+        6
+      ],
+      "ken_burns": "none"
+    },
+    {
+      "id": "scene_07",
+      "asset": "中国経済の冬/assets/scenes/scene_07.png",
+      "asset_type": "gemini",
+      "text": "街からモノが売れる音が消えたの。物価の上昇率{red:ゼロ}。{red:16年ぶり}よ。",
+      "start": 30.612,
+      "end": 34.528,
+      "description": "閑散とした商店街、シャッターが閉まった店々",
+      "sentence_indices": [
+        7
+      ],
+      "ken_burns": "pan_left",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A deserted shopping street in China. All shops have their shutters down. A few 'SALE 90% OFF' and 'CLOSED' signs visible. 3 emoji-faced mob shopkeepers with 😢 crying faces sitting outside their closed shops. Empty shopping bags blow in the wind like tumbleweeds. A large price tag showing '¥0 inflation' floats in the air. Cold, desaturated colors. Lonely atmosphere.",
+      "ref_image": "ref"
+    },
+    {
+      "id": "scene_08",
+      "asset": "中国経済の冬/assets/scenes/scene_08.png",
+      "asset_type": "gemini",
+      "text": "若者の{red:6人に1人}が仕事に就けていない。",
+      "start": 34.678,
+      "end": 36.715,
+      "description": "若者失業列、就活モブが長い列を作る",
+      "sentence_indices": [
+        7
+      ],
+      "ken_burns": "pan_right",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A long line of young emoji-faced mob characters waiting at a job center. 6 mob characters standing in line: 5 with 😔 sad faces wearing casual clothes, 1 highlighted with ❌ red X mark over them (representing the 1-in-6 unemployed). They hold resumes and job application papers. A sign reads 'JOB CENTER' with '募集なし (No Openings)' stamped over it. Gray, depressing atmosphere.",
+      "ref_image": "ref"
+    },
+    {
+      "id": "scene_09",
+      "asset": "中国経済の冬/assets/panels/birth_rate_decline.jpg",
+      "asset_type": "pillow",
+      "text": "出生数は建国以来最少の{red:792万人}。",
+      "start": 36.865,
+      "end": 39.745,
+      "description": "出生数792万人の歴史的推移データパネル",
+      "sentence_indices": [
+        7
+      ],
+      "ken_burns": "none"
+    },
+    {
+      "id": "scene_10",
+      "asset": "中国経済の冬/assets/scenes/scene_10.png",
+      "asset_type": "gemini",
+      "text": "それって{red:1990年代の日本}と同じ道じゃ...。",
+      "start": 40.045,
+      "end": 42.872,
+      "description": "少年が既視感を感じ、日本のバブル崩壊と重ねる",
+      "sentence_indices": [
+        8
+      ],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: The boy (teal hair, round glasses, white dinosaur hoodie) in the center with a worried, contemplative expression. Behind him, a split-screen visual: left side shows 1990s Japan (bubble burst, old Tokyo buildings, yen symbol crashing), right side shows modern China (similar crashing buildings, yuan symbol falling). Both sides mirror each other. 2 emoji-faced mob characters on each side with 😰 worried faces. Dramatic lighting with a sense of déjà vu."
+    },
+    {
+      "id": "scene_11",
+      "asset": "中国経済の冬/assets/panels/local_debt_2900.jpg",
+      "asset_type": "pillow",
+      "text": "地方政府の借金は{red:2900兆円}に膨らんで、ついに{red:中国政府自身が認めた}の。",
+      "start": 43.172,
+      "end": 48.666,
+      "description": "地方債務2900兆円の積み上げデータパネル",
+      "sentence_indices": [
+        9
+      ],
+      "ken_burns": "none"
+    },
+    {
+      "id": "scene_12",
+      "asset": "中国経済の冬/assets/scenes/scene_12.png",
+      "asset_type": "gemini",
+      "text": "全人代で成長率目標を{red:35年ぶり}に引き下げたわ。",
+      "start": 48.816,
+      "end": 52.101,
+      "description": "全人代の議場で目標引き下げを発表するモブ議員たち",
+      "sentence_indices": [
+        9
+      ],
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A grand government assembly hall (resembling China's National People's Congress). A mob character with 🇨🇳 flag face at the podium, looking uncomfortable, announcing a downward revision. A large screen behind shows a growth target being lowered with a red arrow pointing down. Rows of emoji-faced mob delegates with 😐 stoic faces in the audience. Some have 😰 concerned faces. Grand red and gold interior with serious atmosphere.",
+      "ref_image": "ref"
+    },
+    {
+      "id": "scene_13",
+      "asset": "中国経済の冬/assets/scenes/scene_13.png",
+      "asset_type": "gemini",
+      "text": "現場の日本企業{red:1427社}に聞いた結果、良くなると答えたのは{red:1パーセント}。良くならない、{red:99パーセント}。",
+      "start": 52.401,
+      "end": 61.085,
+      "description": "エイミー先生が圧倒的な99%の数字を突きつける",
+      "sentence_indices": [
+        10,
+        11
+      ],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: Amy-sensei (silver/white long hair, blue eyes, red/maroon blazer) in the center with a grave, serious expression, arms crossed. Behind her, a massive pie chart: 99% in dark red labeled '良くならない', and a tiny 1% sliver in green labeled '良くなる'. The number '1,427社' is displayed prominently. 3 emoji-faced mob businesspeople with 😞 defeated faces on the sides. Dark, heavy atmosphere with dramatic red backlighting."
+    },
+    {
+      "id": "scene_14",
+      "asset": "中国経済の冬/assets/scenes/scene_14.png",
+      "asset_type": "gemini",
+      "text": "この国の{red:冬}は、もう始まっているわ。",
+      "start": 61.235,
+      "end": 63.102,
+      "description": "エイミー先生の決め台詞 — 雪の中国を背景に",
+      "sentence_indices": [
+        11
+      ],
+      "ref_image": "ref",
+      "ken_burns": "slow_zoom_in",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A dramatic closing shot. Amy-sensei (silver/white long hair, blue eyes, red/maroon blazer) standing with her back partially turned, looking over her shoulder at the viewer with a solemn expression. Behind her, a vast snowy landscape of China — empty buildings covered in snow, frozen streets. Snowflakes falling. The word '冬' appears faintly in the sky. Cold blue-white color palette. Cinematic, melancholic atmosphere."
+    },
+    {
+      "id": "scene_15",
+      "asset": "中国経済の冬/assets/scenes/scene_15.png",
+      "asset_type": "gemini",
+      "text": "経済の裏側、もっと知りたいかたは、チャンネル登録といいね、よろしくお願いします！",
+      "start": 63.402,
+      "end": 68.0,
+      "description": "少年がチャンネル登録を呼びかけるCTA",
+      "sentence_indices": [
+        12
+      ],
+      "ref_image": "ref",
+      "ken_burns": "zoom_in_center",
+      "prompt": "Fermi Lab chibi anime style, 2-3 head proportions, clean lines, soft shading, horizontal 16:9 landscape.\n\nScene: A cheerful ending scene. The boy (teal hair, round glasses, white dinosaur hoodie) in the center with a big smile, waving at the viewer and pointing to a large red SUBSCRIBE button. Amy-sensei (silver hair, red outfit) next to him with a warm smile. A thumbs-up icon and bell notification icon float nearby. Bright, warm, inviting colors — yellow/orange background. Confetti and sparkles."
+    }
+  ]
+}

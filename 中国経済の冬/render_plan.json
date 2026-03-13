@@ -1,0 +1,606 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "duration_sec": 68.0,
+  "layout": {
+    "type": "combined",
+    "top_bar": {
+      "height": 656,
+      "font_size": 72
+    },
+    "content": {
+      "y": 656,
+      "width": 1080,
+      "height": 608
+    },
+    "subtitle": {
+      "y": 1294,
+      "font_size": 84,
+      "outline_width": 10,
+      "height": 360
+    },
+    "effects": {}
+  },
+  "bgm": {
+    "file": "assets/bgm/bgm_dramatic_march.mp3",
+    "volume": 0.08,
+    "loop": true
+  },
+  "theme_title": "{red:中国経済}の冬",
+  "concentration_scenes": [],
+  "timeline": [
+    {
+      "layer": "info_panel",
+      "time_start": 0.0,
+      "time_end": 5.605,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_01.mp4",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.0,
+      "time_end": 0.424,
+      "params": {
+        "text": "先生、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 0.424,
+      "time_end": 2.968,
+      "params": {
+        "text": "中国のGDP成長率って5パーセントも"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 2.968,
+      "time_end": 3.957333,
+      "params": {
+        "text": "あるんですよね"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 4.057333,
+      "time_end": 5.305333,
+      "params": {
+        "text": "景気いいんじゃないですか"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 5.605,
+      "time_end": 12.509,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_02.mp4",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 5.605333,
+      "time_end": 6.182,
+      "params": {
+        "text": "それがね、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 6.182,
+      "time_end": 7.912,
+      "params": {
+        "text": "景気が良くなったと答えた企業、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 7.912,
+      "time_end": 9.296,
+      "params": {
+        "text": "たったの1パーセントなの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 9.596,
+      "time_end": 9.988,
+      "params": {
+        "text": "えっ、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 9.988,
+      "time_end": 12.209333,
+      "params": {
+        "text": "5パーセント成長なのに1パーセント"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 12.509,
+      "time_end": 17.193,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_03.png",
+        "ken_burns": true,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "se",
+      "time_start": 12.509,
+      "time_end": 17.043,
+      "params": {
+        "action": "play_se",
+        "file": "assets/se/驚く.mp3",
+        "type": "surprise"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 12.509333,
+      "time_end": 13.789333,
+      "params": {
+        "text": "数字の裏を見てみましょう"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 13.939333,
+      "time_end": 16.304285,
+      "params": {
+        "text": "かつて月額50万円だった家賃が、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 16.304285,
+      "time_end": 17.043333,
+      "params": {
+        "text": "今は1万円"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 17.193,
+      "time_end": 22.722,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_04.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 17.193333,
+      "time_end": 18.622666,
+      "params": {
+        "text": "入居率たったの5パーセント"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 18.772666,
+      "time_end": 20.009999,
+      "params": {
+        "text": "マンションは建ったけど、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 20.009999,
+      "time_end": 20.937999,
+      "params": {
+        "text": "誰も住んでいないの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 21.238,
+      "time_end": 22.422,
+      "params": {
+        "text": "ゴーストタウンじゃないですか..."
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 22.722,
+      "time_end": 29.197,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_05.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 22.722,
+      "time_end": 30.612,
+      "params": {
+        "asset": "中国経済の冬/assets/panels/real_estate_crash.jpg",
+        "ken_burns": false,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 22.722,
+      "time_end": 24.070364,
+      "params": {
+        "text": "不動産の販売額は前"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 24.070364,
+      "time_end": 25.568545,
+      "params": {
+        "text": "年比17パーセントの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.568545,
+      "time_end": 25.568545,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.568545,
+      "time_end": 25.568545,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.568545,
+      "time_end": 25.568545,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.568545,
+      "time_end": 25.568545,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.568545,
+      "time_end": 25.568545,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 25.568545,
+      "time_end": 26.018,
+      "params": {
+        "text": "大暴落"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 26.168,
+      "time_end": 27.880232,
+      "params": {
+        "text": "70都市中70都市すべてで"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 27.880232,
+      "time_end": 29.197333,
+      "params": {
+        "text": "住宅価格が下がったわ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 29.497333,
+      "time_end": 30.148,
+      "params": {
+        "text": "全部ですか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 30.248,
+      "time_end": 30.312,
+      "params": {
+        "text": ""
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 30.612,
+      "time_end": 34.678,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_07.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 30.612,
+      "time_end": 32.190667,
+      "params": {
+        "text": "街からモノが売れる音が消えたの"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 32.340667,
+      "time_end": 33.471334000000006,
+      "params": {
+        "text": "物価の上昇率ゼロ"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 33.621334,
+      "time_end": 34.528000999999996,
+      "params": {
+        "text": "16年ぶりよ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 34.678,
+      "time_end": 36.865,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_08.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 34.678001,
+      "time_end": 36.715334,
+      "params": {
+        "text": "若者の6人に1人が仕事に就けていない"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 36.865,
+      "time_end": 40.045,
+      "params": {
+        "asset": "中国経済の冬/assets/panels/birth_rate_decline.jpg",
+        "ken_burns": false,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 36.865334,
+      "time_end": 39.745334,
+      "params": {
+        "text": "出生数は建国以来最少の792万人"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 40.045,
+      "time_end": 43.172,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_10.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 40.045333,
+      "time_end": 41.844121,
+      "params": {
+        "text": "それって1990年代の日本と"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 41.844121,
+      "time_end": 42.872,
+      "params": {
+        "text": "同じ道じゃ..."
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 43.172,
+      "time_end": 48.816,
+      "params": {
+        "asset": "中国経済の冬/assets/panels/local_debt_2900.jpg",
+        "ken_burns": false,
+        "kb_intensity": 2,
+        "kb_direction": "pan_right"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 43.172,
+      "time_end": 43.758666999999996,
+      "params": {
+        "text": "その通り"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 43.908667,
+      "time_end": 46.00749,
+      "params": {
+        "text": "地方政府の借金は2900兆円に"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 46.00749,
+      "time_end": 46.707098,
+      "params": {
+        "text": "膨らんで、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 46.707098,
+      "time_end": 48.666,
+      "params": {
+        "text": "ついに中国政府自身が認めたの"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 48.816,
+      "time_end": 52.401,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_12.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 48.816,
+      "time_end": 51.205333,
+      "params": {
+        "text": "全人代で成長率目標を35年ぶりに"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 51.205333,
+      "time_end": 52.101333,
+      "params": {
+        "text": "引き下げたわ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 52.401,
+      "time_end": 61.235,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_13.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 52.401333,
+      "time_end": 54.054666,
+      "params": {
+        "text": "日本企業はどう見てるんですか"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 54.354667,
+      "time_end": 56.137524,
+      "params": {
+        "text": "現場の日本企業1427社に"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 56.137524,
+      "time_end": 56.960381,
+      "params": {
+        "text": "聞いた結果、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 56.960381,
+      "time_end": 59.154667,
+      "params": {
+        "text": "良くなると答えたのは1パーセント"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 59.304667,
+      "time_end": 61.086,
+      "params": {
+        "text": "良くならない、99パーセント"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 61.235,
+      "time_end": 63.402,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_14.png",
+        "ken_burns": true,
+        "kb_intensity": 3
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 61.236,
+      "time_end": 63.102667,
+      "params": {
+        "text": "この国の冬は、もう始まっているわ"
+      }
+    },
+    {
+      "layer": "info_panel",
+      "time_start": 63.402,
+      "time_end": 68.0,
+      "params": {
+        "asset": "中国経済の冬/assets/scenes/scene_15.png",
+        "ken_burns": true,
+        "kb_intensity": 3,
+        "effects": {
+          "bounce_in": true
+        }
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 63.402667,
+      "time_end": 65.406633,
+      "params": {
+        "text": "経済の裏側、もっと知りたいかたは、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 65.406633,
+      "time_end": 66.821197,
+      "params": {
+        "text": "チャンネル登録といいね、"
+      }
+    },
+    {
+      "layer": "subtitle",
+      "time_start": 66.821197,
+      "time_end": 68.0,
+      "params": {
+        "text": "よろしくお願いします"
+      }
+    }
+  ]
+}

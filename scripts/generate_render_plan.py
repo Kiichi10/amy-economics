@@ -20,10 +20,38 @@ PROJECT_ROOT = Path(__file__).parent.parent
 
 # SE type → MP3 file mapping
 SE_MAP = {
+    # トランジション系
     "whoosh": "assets/se/swipe1.mp3",
+    "whoosh2": "assets/se/swipe2.mp3",
+    "transition": "assets/se/transition_light.mp3",
+    "scene_change": "assets/se/scene_change1.mp3",
+    "scene_change2": "assets/se/scene_change2.mp3",
+    # インパクト系
     "impact": "assets/se/shock.mp3",
+    "impact2": "assets/se/shock_alt.mp3",
+    "impact3": "assets/se/shock_alt2.mp3",
+    "emphasis": "assets/se/emphasis_heavy1.mp3",
+    "emphasis2": "assets/se/emphasis_heavy2.mp3",
+    # リアクション系
     "surprise": "assets/se/驚く.mp3",
     "tension": "assets/se/heartbeat.mp3",
+    "thinking": "assets/se/thinking.mp3",
+    "question": "assets/se/question.mp3",
+    "sad": "assets/se/sad.mp3",
+    # ポジティブ系
+    "correct": "assets/se/correct.mp3",
+    "idea": "assets/se/idea.mp3",
+    "idea_flash": "assets/se/idea_flash.mp3",
+    "cheers": "assets/se/positive_cheers.mp3",
+    "decision": "assets/se/decision.mp3",
+    # ネガティブ系
+    "incorrect": "assets/se/incorrect.mp3",
+    "negative": "assets/se/negative_fall.mp3",
+    # UI系
+    "click": "assets/se/click_light.mp3",
+    "button": "assets/se/button_light1.mp3",
+    "title": "assets/se/title_appear.mp3",
+    "clap": "assets/se/clap_wood.mp3",
 }
 
 # BGM category → (MP3 file, volume) mapping

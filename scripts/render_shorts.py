@@ -996,6 +996,11 @@ def preflight_check(plan, plan_path):
                     f"  音声が{audio_dur:.1f}秒 → 50秒未満ゲート発動\n"
                     f"    → 台本を加筆修正して再生成してください"
                 )
+            # チェック5.5: 60秒超過ゲート（YouTube Shorts上限）
+            if audio_dur > 60.0:
+                errors.append(
+                    f"  音声尺が60秒を超えています（{audio_dur:.1f}s）。Shorts上限は60秒です"
+                )
 
     # info_panelsリストを事前構築（チェック6-8で共有）
     info_panels = [ev for ev in plan.get('timeline', []) if ev.get('layer') == 'info_panel']

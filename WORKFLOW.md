@@ -46,6 +46,7 @@
    - 全シーンの asset_type は `gemini`、`pillow`、または `pixabay`（**`i2v`は使わない**）
    - i2vシーンも最初はPNGで生成し、後でassetパスだけ.mp4に変更する
    - 全Geminiシーンに `ref_image: "ref"` を必ず設定（16:9保証）
+   - 全Geminiシーンに `has_main_character: true/false` を必ず設定（メインキャラ登場比率33-40%制御用。`gemini_image_gen.py`のpreflightで未設定シーンはエラー停止する）
 2. Gemini画像生成（`gemini_image_gen.py`）
    - reference.png をリファレンスとして渡す（ref_image未設定は正方形になる）
 3. Pillowパネル生成（`create_data_panels.py`）

@@ -290,6 +290,10 @@ def set_thumbnail(youtube, video_id, thumbnail_path):
 
 def publish_video(youtube, video_id):
     """非公開/限定公開の動画を公開に変更。"""
+    answer = input(f"動画 {video_id} を公開しますか？ (y/N): ").strip().lower()
+    if answer != 'y':
+        print("公開をキャンセルしました")
+        return
     youtube.videos().update(
         part="status",
         body={
